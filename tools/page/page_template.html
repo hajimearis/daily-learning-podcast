@@ -1,0 +1,455 @@
+<title>每日跨領域學習</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&display=swap">
+<style>
+/* Layout: one reading column; three domain sections, then an English lesson, flashcards with synced progress and a weekly check. A bottom player bar appears while the device's Taiwanese Mandarin voice reads a section aloud. */
+:root {
+  --bg: #F3F6F8;
+  --surface: #FFFFFF;
+  --fg: #14212B;
+  --muted: #566774;
+  --line: #D5DEE4;
+  --eco: #1D5C8A;
+  --eco-soft: #DCEAF4;
+  --mkt: #9A5B14;
+  --mkt-soft: #F4E6D3;
+  --brain: #2F7550;
+  --brain-soft: #D9EDE2;
+  --en: #5B4A8A;
+  --en-soft: #E7E2F3;
+  --dot-off: #C6D2DA;
+  --font-display: "Noto Serif TC", "PMingLiU", serif;
+  --font-body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --font-mono: "DM Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F171D; --surface: #17222A; --fg: #E6EDF1; --muted: #9BADB9; --line: #2B3A45;
+    --eco: #7DB7E3; --eco-soft: #1B3548; --mkt: #E2A45E; --mkt-soft: #3A2B18;
+    --brain: #7CCB9F; --brain-soft: #19352A; --en: #B8A8E6; --en-soft: #2B2442; --dot-off: #33444F;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F171D; --surface: #17222A; --fg: #E6EDF1; --muted: #9BADB9; --line: #2B3A45;
+  --eco: #7DB7E3; --eco-soft: #1B3548; --mkt: #E2A45E; --mkt-soft: #3A2B18;
+  --brain: #7CCB9F; --brain-soft: #19352A; --en: #B8A8E6; --en-soft: #2B2442; --dot-off: #33444F;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body {
+  background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 17px; line-height: 1.8;
+  padding-block: 28px 110px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 720px; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; line-height: 1.35; }
+p { margin: 0 0 1em; }
+a { color: var(--eco); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible, select:focus-visible, summary:focus-visible { outline: 3px solid var(--eco); outline-offset: 2px; border-radius: 4px; }
+
+header .date { font-family: var(--font-mono); font-size: 13px; letter-spacing: .08em; color: var(--muted); }
+header h1 { font-size: 30px; margin: 6px 0 10px; }
+header p { color: var(--muted); margin: 0; }
+.today { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; padding: 0; list-style: none; }
+.today li { font-size: 14px; padding: 4px 12px; border-radius: 999px; line-height: 1.6; }
+.today .t-eco { background: var(--eco-soft); color: var(--eco); }
+.today .t-mkt { background: var(--mkt-soft); color: var(--mkt); }
+.today .t-brain { background: var(--brain-soft); color: var(--brain); }
+
+.btn {
+  font: inherit; font-size: 15px; line-height: 1.4; min-height: 44px; padding: 8px 16px;
+  background: var(--surface); color: var(--fg); border: 1px solid var(--line); border-radius: 8px; cursor: pointer;
+}
+.btn:hover { border-color: var(--muted); }
+.btn.read { min-height: 40px; font-size: 14px; padding: 6px 12px; }
+.btn.ok { background: var(--brain-soft); color: var(--brain); border-color: var(--brain); font-weight: 700; }
+.btn.again { background: var(--mkt-soft); color: var(--mkt); border-color: var(--mkt); font-weight: 700; }
+
+.listen { margin-top: 24px; padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+.listen h2 { font-size: 17px; margin-bottom: 8px; }
+.listen p { font-size: 14px; color: var(--muted); line-height: 1.7; margin: 0 0 10px; }
+.voices { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+.voices label { display: grid; gap: 4px; font-size: 13px; color: var(--muted); min-width: 0; }
+.voices select { font: inherit; font-size: 14px; min-height: 40px; padding: 6px 8px; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 6px; max-width: 100%; }
+#voice-status { margin: 10px 0 0; font-size: 13px; }
+
+section.domain, section.english, section.cardsec, section.check { margin-top: 44px; padding-top: 28px; border-top: 1px solid var(--line); }
+.sec-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.tag { display: inline-block; font-size: 13px; font-weight: 700; letter-spacing: .1em; padding: 2px 10px; border-radius: 4px; line-height: 1.7; }
+.domain.eco .tag { background: var(--eco-soft); color: var(--eco); }
+.domain.mkt .tag { background: var(--mkt-soft); color: var(--mkt); }
+.domain.brain .tag { background: var(--brain-soft); color: var(--brain); }
+.tag-en { background: var(--en-soft); color: var(--en); }
+section h2 { font-size: 24px; margin: 12px 0 8px; }
+.lead { font-size: 18px; font-weight: 500; }
+.note { font-size: 14px; color: var(--muted); border-left: 2px solid var(--line); padding-left: 12px; margin: 0 0 1.2em; line-height: 1.7; }
+
+figure { margin: 22px 0; padding: 18px 16px 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+figure svg { display: block; width: 100%; height: auto; }
+figcaption { font-size: 13px; color: var(--muted); margin-top: 8px; line-height: 1.6; }
+svg text { font-family: var(--font-body); fill: var(--fg); }
+svg .mute { fill: var(--muted); }
+.eco .bar { fill: var(--eco); }
+.eco .bar.dim { fill: var(--eco); opacity: .4; }
+.axis { stroke: var(--line); stroke-width: 1; }
+.meters { display: grid; gap: 14px; margin: 0; padding: 0; list-style: none; }
+.meter .row { display: flex; justify-content: space-between; gap: 12px; font-size: 15px; line-height: 1.5; margin-bottom: 4px; }
+.meter .row b { font-family: var(--font-mono); font-weight: 500; font-size: 17px; color: var(--mkt); white-space: nowrap; }
+.meter .track { height: 10px; background: var(--mkt-soft); border-radius: 5px; overflow: hidden; }
+.meter .fill { height: 100%; background: var(--mkt); border-radius: 5px; }
+.brain .on { fill: var(--brain); }
+.brain .off { fill: var(--dot-off); }
+
+h3 { font-size: 17px; margin: 26px 0 6px; }
+.link-box { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px 2px; margin: 18px 0; }
+.link-box h3 { margin-top: 0; font-size: 15px; letter-spacing: .06em; color: var(--muted); }
+.src { font-size: 14px; color: var(--muted); margin-top: 18px; }
+
+/* English lesson */
+.english .lead { margin-bottom: 4px; }
+.review { list-style: none; margin: 8px 0 0; padding: 0; }
+.rv { display: flex; justify-content: space-between; gap: 16px; padding: 10px 0; border-top: 1px solid var(--line); }
+.rv-zh { min-width: 0; }
+.rv-en { font-family: var(--font-mono); font-size: 17px; font-weight: 500; text-align: right; overflow-wrap: anywhere; min-width: 0; }
+.passage { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px 16px 4px; }
+.passage .p-en { font-family: var(--font-mono); font-size: 15px; line-height: 1.85; }
+.passage .p-zh { font-size: 15px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 12px; }
+.chunks { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 0; }
+.chunk { padding: 14px 0; border-top: 1px solid var(--line); }
+.c-top { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.c-en { font-family: var(--font-mono); font-size: 19px; font-weight: 500; overflow-wrap: anywhere; min-width: 0; }
+.c-tag { font-size: 12px; padding: 0 8px; border-radius: 4px; line-height: 1.8; }
+.t-eco { background: var(--eco-soft); color: var(--eco); }
+.t-mkt { background: var(--mkt-soft); color: var(--mkt); }
+.t-brain { background: var(--brain-soft); color: var(--brain); }
+.c-zh { font-weight: 500; margin-top: 2px; }
+.c-ex { font-family: var(--font-mono); font-size: 15px; line-height: 1.7; margin-top: 6px; overflow-wrap: anywhere; }
+.c-exzh { font-size: 15px; color: var(--muted); line-height: 1.7; }
+.pattern { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; }
+.pattern .p-en { font-family: var(--font-mono); font-size: 18px; font-weight: 500; overflow-wrap: anywhere; }
+.pattern .p-zh { margin: 2px 0 0; }
+.peek { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 16px 12px; }
+.peek summary { cursor: pointer; font-weight: 500; min-height: 32px; }
+
+/* Flashcards */
+.progress { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 10px; margin: 14px 0; }
+.progress div { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: grid; gap: 0; line-height: 1.4; }
+.progress b { font-family: var(--font-mono); font-size: 24px; font-weight: 500; }
+.progress span { font-size: 13px; color: var(--muted); }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; margin-top: 12px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.card-top { display: flex; justify-content: space-between; gap: 8px; align-items: center; }
+.card-kind { font-size: 12px; color: var(--muted); letter-spacing: .06em; }
+.chip { font-size: 12px; padding: 0 8px; border-radius: 999px; line-height: 1.9; background: var(--bg); color: var(--muted); border: 1px solid var(--line); white-space: nowrap; }
+.chip.due { background: var(--mkt-soft); color: var(--mkt); border-color: var(--mkt); }
+.chip.grad { background: var(--brain-soft); color: var(--brain); border-color: var(--brain); }
+.chip.learn { background: var(--eco-soft); color: var(--eco); border-color: var(--eco); }
+.card-front { font-family: var(--font-display); font-size: 20px; font-weight: 600; line-height: 1.5; }
+.card-back { display: grid; gap: 2px; border-top: 1px solid var(--line); padding-top: 10px; }
+.cb-en { font-family: var(--font-mono); font-size: 18px; font-weight: 500; overflow-wrap: anywhere; }
+.cb-ex { font-family: var(--font-mono); font-size: 14px; color: var(--muted); line-height: 1.6; overflow-wrap: anywhere; }
+.cb-exzh { font-size: 14px; color: var(--muted); line-height: 1.6; }
+.grade { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px; }
+
+.checklist { list-style: none; margin: 14px 0 0; padding: 0; }
+.checklist li { display: grid; grid-template-columns: 5em minmax(0, 1fr); gap: 4px 16px; padding: 12px 0; border-top: 1px solid var(--line); }
+.checklist b { font-weight: 700; }
+@media (max-width: 460px) { .checklist li { grid-template-columns: 1fr; } }
+
+section.wrapup { margin-top: 48px; padding: 24px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+.wrapup h2 { font-size: 22px; margin-bottom: 10px; }
+.question { font-family: var(--font-display); font-size: 19px; line-height: 1.7; margin: 14px 0 0; font-weight: 600; }
+footer { margin-top: 28px; font-size: 13px; color: var(--muted); line-height: 1.7; }
+
+.player {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
+  display: flex; align-items: center; gap: 10px;
+  padding-top: 10px; padding-bottom: calc(10px + env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  background: var(--surface); border-top: 1px solid var(--line);
+}
+.player[hidden] { display: none; }
+.pl-info { flex: 1; min-width: 0; font-size: 14px; line-height: 1.4; }
+.pl-info b { display: block; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pl-info span { color: var(--muted); font-size: 13px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="date">2026.10.21 · 週三　樣品</div>
+    <h1>每日跨領域學習</h1>
+    <p>開車時請聽音檔，這一頁等停車後再看。</p>
+    <ul class="today">
+      <li class="t-eco">經濟　IMF 全球預測</li>
+      <li class="t-mkt">行銷　AI 搜尋能見度</li>
+      <li class="t-brain">腦神經　動作學習</li>
+    </ul>
+    <div class="listen" id="listen">
+      <h2>台灣腔朗讀</h2>
+      <p>每個段落的「朗讀」按鈕，用的是這台裝置內建的語音。Edge 的曉臻很自然，手機通常也有台灣中文語音。朗讀時請保持頁面開啟，手機鎖屏後可能會停止。</p>
+      <div class="voices">
+        <label>中文語音<select id="voice-zh"></select></label>
+        <label>英文語音<select id="voice-en"></select></label>
+        <label>速度<select id="rate">
+          <option value="0.8">慢 0.8×</option>
+          <option value="0.9">稍慢 0.9×</option>
+          <option value="1" selected>正常 1×</option>
+          <option value="1.15">稍快 1.15×</option>
+          <option value="1.3">快 1.3×</option>
+        </select></label>
+      </div>
+      <p id="voice-status"></p>
+    </div>
+  </header>
+
+  {{DOMAINS}}
+
+  {{ENGLISH}}
+
+  {{CARDS}}
+
+  {{CHECK}}
+
+  <section class="wrapup">
+    <h2>今日共通思考</h2>
+    <p>IMF 的 3.1% 底下，是被拉扯的分化。行銷調查裡的 91% 底下，有一半的人其實不確定。大腦裡那個漂亮的動作，底下是一小群領頭的神經元，加上整個大腦當下的狀態。三個故事講同一件事：表面的數字或結果，底下都有結構。</p>
+    <p class="question">今天我最常看的那個平均數，底下藏著什麼？是誰被平均掉了？又是哪個起頭的小動作，決定了後面的一切？</p>
+  </section>
+
+  <footer>內容為學習用資訊整理，不構成投資或其他專業建議。所有說明皆以自己的話改寫，引用內容請至來源頁面確認。</footer>
+</div>
+
+<div class="player" id="player" hidden>
+  <div class="pl-info"><b id="pl-label">朗讀中</b><span id="pl-prog"></span></div>
+  <button class="btn" type="button" id="pl-toggle">暫停</button>
+  <button class="btn" type="button" id="pl-stop">停止</button>
+</div>
+
+<script>
+(function () {
+  var $ = function (s, r) { return (r || document).querySelector(s); };
+  var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
+  function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+  /* ---------- decorative dots (brain section) ---------- */
+  (function () {
+    var svg = $("#dots"); if (!svg) return;
+    var NS = "http://www.w3.org/2000/svg";
+    var cols = 16, rows = 6, gx = 20, gy = 22, x0 = 30, y0 = 22;
+    var picks = [3, 9, 14, 20, 25, 31, 36, 38, 44, 47, 52, 55, 58, 63, 67, 71, 76, 81, 87, 92];
+    for (var r = 0; r < rows; r++) for (var c = 0; c < cols; c++) {
+      var on = picks.indexOf(r * cols + c) !== -1;
+      var el = document.createElementNS(NS, "circle");
+      el.setAttribute("cx", x0 + c * gx); el.setAttribute("cy", y0 + r * gy);
+      el.setAttribute("r", on ? 6 : 4); el.setAttribute("class", on ? "on" : "off");
+      svg.appendChild(el);
+    }
+  })();
+
+  /* ---------- speech: device voices ---------- */
+  var synth = window.speechSynthesis;
+  var zhSel = $("#voice-zh"), enSel = $("#voice-en"), rateSel = $("#rate"), vstatus = $("#voice-status");
+  var voices = [];
+  function score(v, kind) {
+    var s = 0, lang = (v.lang || "").replace("_", "-");
+    if (kind === "zh") {
+      if (/^zh-TW/i.test(lang)) s += 100; else if (/^zh-(HK|CN)/i.test(lang)) s += 10; else if (/^zh/i.test(lang)) s += 5;
+      if (/Taiwan|台灣|臺灣|HsiaoChen|HsiaoYu|YunJhe|Mei-?Jia/i.test(v.name)) s += 20;
+    } else {
+      if (/^en-US/i.test(lang)) s += 100; else if (/^en/i.test(lang)) s += 50;
+    }
+    if (/Natural|Online/i.test(v.name)) s += 15;
+    return s;
+  }
+  function fillSel(sel, kind, saved) {
+    var list = voices.filter(function (v) { return kind === "zh" ? /^zh/i.test(v.lang) : /^en/i.test(v.lang); });
+    list.sort(function (a, b) { return score(b, kind) - score(a, kind); });
+    sel.innerHTML = "";
+    list.forEach(function (v) {
+      var o = document.createElement("option");
+      o.value = v.voiceURI; o.textContent = v.name + "（" + v.lang + "）"; sel.appendChild(o);
+    });
+    if (saved) for (var i = 0; i < sel.options.length; i++) if (sel.options[i].value === saved) sel.selectedIndex = i;
+    return list;
+  }
+  function loadVoices() {
+    if (!synth) { vstatus.textContent = "這個瀏覽器不支援朗讀，請改用音檔。"; return; }
+    voices = synth.getVoices() || [];
+    var zl = fillSel(zhSel, "zh", lsGet("v-zh")), el = fillSel(enSel, "en", lsGet("v-en"));
+    var best = zl[0];
+    if (!zl.length) vstatus.textContent = "找不到中文語音，朗讀可能無法使用。";
+    else if (/^zh[-_]TW/i.test(best.lang) || /Taiwan|HsiaoChen|Mei-?Jia/i.test(best.name)) vstatus.textContent = "已找到台灣中文語音：" + zhSel.options[zhSel.selectedIndex].textContent;
+    else vstatus.textContent = "這台裝置沒有台灣中文語音，目前使用：" + zhSel.options[zhSel.selectedIndex].textContent + "。";
+    if (!el.length) vstatus.textContent += " 找不到英文語音。";
+  }
+  if (synth) { loadVoices(); if ("onvoiceschanged" in synth) synth.onvoiceschanged = loadVoices; }
+  zhSel.addEventListener("change", function () { lsSet("v-zh", zhSel.value); });
+  enSel.addEventListener("change", function () { lsSet("v-en", enSel.value); });
+  rateSel.addEventListener("change", function () { lsSet("rate", rateSel.value); });
+  (function () { var r = lsGet("rate"); if (r) rateSel.value = r; })();
+  function voiceFor(kind) {
+    var sel = kind === "zh" ? zhSel : enSel;
+    for (var i = 0; i < voices.length; i++) if (voices[i].voiceURI === sel.value) return voices[i];
+    return null;
+  }
+
+  /* ---------- player ---------- */
+  var P = { q: [], i: 0, cur: 0, token: 0, sel: null, state: "idle", timer: null, label: "" };
+  var wake = null;
+  function split(text, lang) {
+    var re = lang === "zh" ? /[^。！？!?；;\n]+[。！？!?；;]?/g : /[^.!?]+[.!?]*\s*/g;
+    var parts = (text.match(re) || [text]).map(function (s) { return s.trim(); }).filter(Boolean);
+    var out = [];
+    parts.forEach(function (s) {
+      while (s.length > 140) {
+        var cut = s.slice(0, 140).search(/[，,、][^，,、]*$/);
+        if (cut < 40) cut = 139;
+        out.push(s.slice(0, cut + 1)); s = s.slice(cut + 1).trim();
+      }
+      if (s) out.push(s);
+    });
+    return out;
+  }
+  function expand(items) {
+    var out = [];
+    items.forEach(function (it) {
+      if (it[0] === "pause") { out.push(it); return; }
+      var lang = it[0] === "zh" ? "zh" : "en";
+      split(it[1], lang).forEach(function (s) { out.push([it[0], s]); });
+    });
+    return out;
+  }
+  function releaseWake() { try { if (wake) wake.release(); } catch (e) {} wake = null; }
+  function takeWake() { try { if (navigator.wakeLock) navigator.wakeLock.request("screen").then(function (w) { wake = w; }, function () {}); } catch (e) {} }
+  function ui() {
+    var bar = $("#player");
+    bar.hidden = P.state === "idle";
+    $("#pl-label").textContent = P.label;
+    $("#pl-prog").textContent = P.q.length ? Math.min(100, Math.round(P.cur / P.q.length * 100)) + "%" : "";
+    $("#pl-toggle").textContent = P.state === "playing" ? "暫停" : "繼續";
+    $$(".btn.read").forEach(function (b) {
+      var mine = b.getAttribute("data-read") === P.sel;
+      b.textContent = mine && P.state === "playing" ? "⏸ 暫停" : (mine && P.state === "paused" ? "▶ 繼續" : (b.getAttribute("data-read") === "#english" ? "▶ 台灣腔朗讀英文軌" : "▶ 台灣腔朗讀"));
+    });
+  }
+  function stopTimers() { P.token++; if (P.timer) { clearTimeout(P.timer); P.timer = null; } if (synth) synth.cancel(); }
+  function stop() { stopTimers(); P.state = "idle"; P.sel = null; P.q = []; P.i = 0; P.cur = 0; releaseWake(); ui(); }
+  function finish() { stop(); }
+  function run(t) {
+    if (t !== P.token || P.state !== "playing") return;
+    if (P.i >= P.q.length) { finish(); return; }
+    var idx = P.i++; P.cur = idx; var it = P.q[idx]; ui();
+    if (it[0] === "pause") { P.timer = setTimeout(function () { P.timer = null; run(t); }, it[1]); return; }
+    var kind = it[0] === "zh" ? "zh" : "en";
+    var u = new SpeechSynthesisUtterance(it[1]);
+    var v = voiceFor(kind);
+    if (v) { u.voice = v; u.lang = v.lang; } else u.lang = kind === "zh" ? "zh-TW" : "en-US";
+    var r = parseFloat(rateSel.value) || 1;
+    u.rate = it[0] === "en-slow" ? Math.max(0.5, r * 0.75) : r;
+    u.onend = function () { run(t); };
+    u.onerror = function (e) { if (e && (e.error === "interrupted" || e.error === "canceled")) return; run(t); };
+    synth.speak(u);
+  }
+  function start(sel) {
+    if (!synth) { vstatus.textContent = "這個瀏覽器不支援朗讀，請改用音檔。"; return; }
+    stopTimers();
+    var el = $(sel); if (!el) return;
+    var items; try { items = JSON.parse(el.getAttribute("data-q")); } catch (e) { return; }
+    P.q = expand(items); P.i = 0; P.cur = 0; P.sel = sel; P.state = "playing";
+    var h = $("h2", el); P.label = h ? h.textContent : "朗讀中";
+    takeWake(); ui();
+    var t = P.token; setTimeout(function () { run(t); }, 80);
+  }
+  function pause() { if (P.state !== "playing") return; stopTimers(); P.i = P.cur; P.state = "paused"; releaseWake(); ui(); }
+  function resume() { if (P.state !== "paused") return; P.state = "playing"; takeWake(); ui(); var t = P.token; run(t); }
+  $$(".btn.read").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var sel = b.getAttribute("data-read");
+      if (P.sel === sel && P.state === "playing") pause();
+      else if (P.sel === sel && P.state === "paused") resume();
+      else start(sel);
+    });
+  });
+  $("#pl-toggle").addEventListener("click", function () { if (P.state === "playing") pause(); else resume(); });
+  $("#pl-stop").addEventListener("click", stop);
+  window.addEventListener("pagehide", stop);
+
+  /* ---------- flashcards with synced progress ---------- */
+  var LADDER = [1, 3, 7, 14, 30];
+  function pad(n) { return (n < 10 ? "0" : "") + n; }
+  function ymd(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+  function todayStr() { return ymd(new Date()); }
+  function plusDays(n) { var d = new Date(); d.setDate(d.getDate() + n); return ymd(d); }
+
+  var map = {}, db = null, inflight = {};
+  var noteEl = $("#save-note");
+  function loadLocal() { try { var s = lsGet("cards-v1"); if (s) map = JSON.parse(s) || {}; } catch (e) { map = {}; } }
+  function saveLocal() { lsSet("cards-v1", JSON.stringify(map)); }
+
+  function stateOf(id) {
+    var d = map[id];
+    if (!d) return "new";
+    if (d.status === "graduated") return "grad";
+    if (d.due && d.due <= todayStr()) return "due";
+    return "learn";
+  }
+  function render() {
+    var c = { due: 0, learn: 0, grad: 0, "new": 0 };
+    $$(".card").forEach(function (card) {
+      var id = card.getAttribute("data-id"), s = stateOf(id), chip = $("[data-chip]", card), d = map[id];
+      c[s]++;
+      chip.className = "chip" + (s === "due" ? " due" : s === "grad" ? " grad" : s === "learn" ? " learn" : "");
+      if (s === "new") chip.textContent = "未練習";
+      else if (s === "grad") chip.textContent = "已畢業";
+      else if (s === "due") chip.textContent = "今天複習";
+      else chip.textContent = "下次 " + d.due.slice(5).replace("-", "/");
+    });
+    $$("[data-p]").forEach(function (n) { n.textContent = c[n.getAttribute("data-p")]; });
+  }
+  function grade(id, ok) {
+    var cur = map[id] || { streak: 0, n: 0 };
+    var streak = ok ? (cur.streak || 0) + 1 : 0;
+    var doc = {
+      streak: streak, n: (cur.n || 0) + 1, last: todayStr(),
+      due: plusDays(LADDER[Math.min(streak, LADDER.length - 1)]),
+      status: streak >= 4 ? "graduated" : (ok ? "learning" : "again")
+    };
+    map[id] = doc; render(); saveLocal();
+    if (db) {
+      if (inflight[id]) { inflight[id] = doc; return; }
+      inflight[id] = doc;
+      (function write() {
+        var d = inflight[id];
+        db.doc("cards/" + id).set(d).then(function () {
+          if (inflight[id] !== d) write(); else delete inflight[id];
+        }, function () { delete inflight[id]; noteEl.textContent = "進度暫時無法同步，已先存在這個瀏覽器。"; });
+      })();
+    }
+  }
+  $$(".card").forEach(function (card) {
+    var id = card.getAttribute("data-id"), back = $(".card-back", card), reveal = $("[data-reveal]", card);
+    reveal.addEventListener("click", function () { back.hidden = false; reveal.hidden = true; });
+    $$("[data-grade]", card).forEach(function (b) {
+      b.addEventListener("click", function () {
+        grade(id, b.getAttribute("data-grade") === "ok");
+        back.hidden = true; reveal.hidden = false;
+      });
+    });
+  });
+  loadLocal(); render();
+  (async function () {
+    try { if (window.claude && window.claude.use) db = await window.claude.use("db"); } catch (e) { db = null; }
+    if (!db) { noteEl.textContent = "進度只存在這個瀏覽器，換裝置不會同步。"; return; }
+    db.collection("cards").onSnapshot(function (snap) {
+      var m = {}; snap.docs.forEach(function (d) { if (d.exists) m[d.id] = d.data(); });
+      Object.keys(inflight).forEach(function (k) { m[k] = inflight[k]; });
+      map = m; saveLocal(); render(); noteEl.textContent = "";
+    }, function () { noteEl.textContent = "進度暫時無法同步，已先存在這個瀏覽器。"; });
+  })();
+})();
+</script>
