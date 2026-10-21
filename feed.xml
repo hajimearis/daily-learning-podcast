@@ -6,13 +6,33 @@
     <atom:link href="https://hajimearis.github.io/daily-learning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每天三個領域的最新訊息與跨領域思考，加上英文詞塊與跟讀練習。內容為學習用的資訊整理，不構成投資或其他專業建議。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:06:18 +0000</lastBuildDate>
     <itunes:author>陳俊源</itunes:author>
     <itunes:summary>每天三個領域的最新訊息與跨領域思考，加上英文詞塊與跟讀練習。內容為學習用的資訊整理，不構成投資或其他專業建議。</itunes:summary>
     <itunes:image href="https://hajimearis.github.io/daily-learning-podcast/cover.png"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>2026-10-21 英文軌：詞塊與跟讀（自然男聲樣品）</title>
+      <description>昨日回顧、短文、5 個詞塊（例句附中文意思並停頓跟讀）、1 個句型與一句輸出練習。英文為美式發音。</description>
+      <link>https://hajimearis.github.io/daily-learning-podcast/</link>
+      <guid isPermaLink="false">2026-10-21-english-natural</guid>
+      <pubDate>Wed, 21 Oct 2026 16:12:00 +0800</pubDate>
+      <enclosure url="https://hajimearis.github.io/daily-learning-podcast/episodes/2026-10-21-english-natural.mp3" length="4623718" type="audio/mpeg"/>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-10-21 知識軌：IMF 預測、AI 搜尋、動作學習（自然男聲樣品）</title>
+      <description>經濟：IMF 把 2026 年全球成長預測上調到 3.1%。行銷：AI 搜尋能見度調查。腦神經：只刺激約 20 個神經元就能喚起學會的動作（小鼠研究）。</description>
+      <link>https://hajimearis.github.io/daily-learning-podcast/</link>
+      <guid isPermaLink="false">2026-10-21-knowledge-natural</guid>
+      <pubDate>Wed, 21 Oct 2026 16:11:00 +0800</pubDate>
+      <enclosure url="https://hajimearis.github.io/daily-learning-podcast/episodes/2026-10-21-knowledge-natural.mp3" length="4078595" type="audio/mpeg"/>
+      <itunes:duration>00:05:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-10-21 英文軌：詞塊與跟讀（低沉男聲樣品）</title>
       <description>昨日回顧、短文、5 個詞塊（例句附中文意思並停頓跟讀）、1 個句型與一句輸出練習。英文為美式發音。</description>
