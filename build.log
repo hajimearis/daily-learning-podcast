@@ -1,44 +1,31 @@
-building 2026-10-21-english-mid
 building 2026-10-21-knowledge-mid
-retry 1: zh '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '接著他們用全息光遺傳學技術，只刺激其中約 20 ': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '對中風、癱瘓或加速學習的應用，目前都還只是未來展': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '對中風、癱瘓或加速學習的應用，目前都還只是未來展': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '對中風、癱瘓或加速學習的應用，目前都還只是未來展': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '比喻：第一個音': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '比喻：第一個音': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '比喻：第一個音': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '第一個音一響，手指就自己跟著走。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-21-knowledge-mid TTS failed for '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
-episodes: 9 dropped: 0
-episodes built: 1 failed: ['2026-10-21-knowledge-mid']
+retry 1: zh '跨領域連結\u3000起動點與專注': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '比起一長串動作修正，也許更重要的是給學員一個清楚': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這裡是借研究當比喻，並不是研究的結論。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這裡是借研究當比喻，並不是研究的結論。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '這裡是借研究當比喻，並不是研究的結論。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '這裡是借研究當比喻，並不是研究的結論。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '這裡是借研究當比喻，並不是研究的結論。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh 'IMF 的百分之三點一，底下是被拉扯的分化。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '三個故事講同一件事：表面的數字或結果，底下都有結': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '今天，我最常看的那個平均數，底下藏著什麼？': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '又是哪個起頭的小動作，決定了後面的一切？': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '又是哪個起頭的小動作，決定了後面的一切？': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '又是哪個起頭的小動作，決定了後面的一切？': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '又是哪個起頭的小動作，決定了後面的一切？': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '又是哪個起頭的小動作，決定了後面的一切？': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '謝謝你的收聽。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '謝謝你的收聽。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '謝謝你的收聽。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '謝謝你的收聽。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '謝謝你的收聽。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '祝你今天教學順利，路上平安。': No audio was received. Please verify that your parameters are correct.
+episodes: 10 dropped: 0
+episodes built: 1 failed: []

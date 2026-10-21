@@ -6,7 +6,7 @@
     <atom:link href="https://hajimearis.github.io/daily-learning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每天三個領域的最新訊息與跨領域思考，加上英文詞塊與跟讀練習。內容為學習用的資訊整理，不構成投資或其他專業建議。</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:31:55 +0000</lastBuildDate>
     <itunes:author>陳俊源</itunes:author>
     <itunes:summary>每天三個領域的最新訊息與跨領域思考，加上英文詞塊與跟讀練習。內容為學習用的資訊整理，不構成投資或其他專業建議。</itunes:summary>
     <itunes:image href="https://hajimearis.github.io/daily-learning-podcast/cover.png"/>
@@ -21,6 +21,16 @@
       <pubDate>Wed, 21 Oct 2026 16:42:00 +0800</pubDate>
       <enclosure url="https://hajimearis.github.io/daily-learning-podcast/episodes/2026-10-21-english-mid.mp3" length="4623091" type="audio/mpeg"/>
       <itunes:duration>00:06:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-10-21 知識軌：IMF 預測、AI 搜尋、動作學習（中低男聲樣品）</title>
+      <description>經濟：IMF 把 2026 年全球成長預測上調到 3.1%。行銷：AI 搜尋能見度調查。腦神經：只刺激約 20 個神經元就能喚起學會的動作（小鼠研究）。</description>
+      <link>https://hajimearis.github.io/daily-learning-podcast/</link>
+      <guid isPermaLink="false">2026-10-21-knowledge-mid</guid>
+      <pubDate>Wed, 21 Oct 2026 16:41:00 +0800</pubDate>
+      <enclosure url="https://hajimearis.github.io/daily-learning-podcast/episodes/2026-10-21-knowledge-mid.mp3" length="4077968" type="audio/mpeg"/>
+      <itunes:duration>00:05:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
