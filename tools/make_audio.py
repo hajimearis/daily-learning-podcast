@@ -43,14 +43,14 @@ def silence(ms):
     return np.zeros(int(SR * ms / 1000), dtype=np.float32)
 
 
-async def synth(text, kind, voices, retries=5):
+async def synth(text, kind, voices, pitches, rates, retries=5):
     last = None
     for attempt in range(retries):
         path = None
         try:
             with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as f:
                 path = f.name
-            await edge_tts.Communicate(text, voices[kind], rate=RATES[kind]).save(path)
+            await edge_tts.Communicate(text, voices[kind], rate=rates[kind], pitch=pitches[kind]).save(path)
             raw = subprocess.run(
                 ["ffmpeg", "-v", "error", "-i", path, "-f", "f32le", "-ar", str(SR), "-ac", "1", "-"],
                 capture_output=True, check=True).stdout
@@ -73,6 +73,15 @@ async def build_audio(script, out_mp3):
     ov = script.get("voices", {})
     voices["zh"] = ov.get("zh", voices["zh"])
     voices["en"] = voices["en-slow"] = ov.get("en", voices["en"])
+    pitches = {"zh": "+0Hz", "en": "+0Hz", "en-slow": "+0Hz"}
+    po = script.get("pitch", {})
+    pitches["zh"] = po.get("zh", "+0Hz")
+    pitches["en"] = pitches["en-slow"] = po.get("en", "+0Hz")
+    rates = dict(RATES)
+    ro = script.get("rate", {})
+    rates["zh"] = ro.get("zh", rates["zh"])
+    rates["en"] = ro.get("en", rates["en"])
+    rates["en-slow"] = ro.get("en-slow", rates["en-slow"])
     chunks = []
     for kind, value in script["queue"]:
         if kind == "pause":
@@ -80,7 +89,7 @@ async def build_audio(script, out_mp3):
             continue
         base = "zh" if kind == "zh" else "en"
         for part in split_text(value, base):
-            chunks.append(await synth(part, kind, voices))
+            chunks.append(await synth(part, kind, voices, pitches, rates))
             chunks.append(silence(250))
     pcm = np.concatenate(chunks)
     pcm = pcm / max(1e-6, float(np.abs(pcm).max())) * 0.9
@@ -91,7 +100,12 @@ async def build_audio(script, out_mp3):
             w.setsampwidth(2)
             w.setframerate(SR)
             w.writeframes((pcm * 32767).astype(np.int16).tobytes())
-        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",
+        fx = ""
+        if script.get("fx") == "deep":
+            fx = ("highpass=f=70,equalizer=f=110:width_type=h:width=120:g=4,"
+                  "equalizer=f=260:width_type=q:width=1:g=1.5,equalizer=f=6500:width_type=h:width=3000:g=-2,"
+                  "acompressor=threshold=0.09:ratio=3:attack=10:release=200:makeup=2,")
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", fx + "loudnorm=I=-16:TP=-1.5:LRA=11",
                         "-codec:a", "libmp3lame", "-b:a", "96k", "-ar", "44100", out_mp3], check=True)
     return len(pcm) / SR
 
