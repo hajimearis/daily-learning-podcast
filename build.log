@@ -1,41 +1,44 @@
 building 2026-10-21-english-mid
 building 2026-10-21-knowledge-mid
-retry 1: zh '10 月 13 日，IMF 發布最新的世界經濟展': No audio was received. Please verify that your parameters are correct.
-retry 1: zh 'IMF 的說法是，全球經濟不是單純變慢，也不是變': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '走近一看，有人在輕鬆散步，有人已經喘到跟不上。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '平均數讓整體好看，卻藏住每個人真正的狀態。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '當人們開始直接問 AI 問題，品牌有沒有出現在答': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '這是今年 7 月發布的調查，不是這幾天的新聞。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '這是今年 7 月發布的調查，不是這幾天的新聞。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '這是今年 7 月發布的調查，不是這幾天的新聞。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '調查由行銷代理商 Scribewise 與販售 ': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '調查由行銷代理商 Scribewise 與販售 ': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '調查由行銷代理商 Scribewise 與販售 ': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '他們訪問了 602 位美國行銷與公關人員，問的是': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '他們訪問了 602 位美國行銷與公關人員，問的是': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '他們訪問了 602 位美國行銷與公關人員，問的是': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '他們訪問了 602 位美國行銷與公關人員，問的是': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '比喻：招牌與答案': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '現在越來越多人直接問 AI：「台灣哪裡有好的空間': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '」AI 給出一段答案。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '跨領域連結\u3000被正確轉述，才算教出去': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '跨領域連結\u3000被正確轉述，才算教出去': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '跨領域連結\u3000被正確轉述，才算教出去': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '跨領域連結\u3000被正確轉述，才算教出去': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '沒有人完全知道 AI 怎麼挑內容，調查裡也有將近': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '一個合理的推測是：內容越清楚、具體、一致，被別人': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '一個合理的推測是：內容越清楚、具體、一致，被別人': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '一個合理的推測是：內容越清楚、具體、一致，被別人': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '把品牌名稱、課程名稱、核心概念每次都用同樣清楚的': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '把品牌名稱、課程名稱、核心概念每次都用同樣清楚的': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '把品牌名稱、課程名稱、核心概念每次都用同樣清楚的': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '只刺激 20 個神經元，就能喚起一個學會的動作。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '只刺激 20 個神經元，就能喚起一個學會的動作。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '只刺激 20 個神經元，就能喚起一個學會的動作。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '只刺激 20 個神經元，就能喚起一個學會的動作。': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
-TTS failed for '動作開始之前，總有一小群神經元先亮起來。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '10 月 14 日，加州大學聖地牙哥分校公布一項': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '研究者讓小鼠學一個新動作，用顯微鏡一個一個追蹤運': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '接著他們用全息光遺傳學技術，只刺激其中約 20 ': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '成功與否取決於刺激前大腦的狀態，以及小鼠當時是否': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '對中風、癱瘓或加速學習的應用，目前都還只是未來展': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '對中風、癱瘓或加速學習的應用，目前都還只是未來展': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '對中風、癱瘓或加速學習的應用，目前都還只是未來展': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '比喻：第一個音': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '比喻：第一個音': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '比喻：第一個音': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '一首你很熟的歌，不需要在腦中把每個音符排一遍。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '第一個音一響，手指就自己跟著走。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-21-knowledge-mid TTS failed for '那個起頭的音，就像這 20 個領頭的神經元。': No audio was received. Please verify that your parameters are correct.
+episodes: 9 dropped: 0
+episodes built: 1 failed: ['2026-10-21-knowledge-mid']
