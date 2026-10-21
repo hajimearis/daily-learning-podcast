@@ -13,6 +13,7 @@ import glob
 import hashlib
 import json
 import os
+import random
 import re
 import subprocess
 import sys
@@ -43,7 +44,7 @@ def silence(ms):
     return np.zeros(int(SR * ms / 1000), dtype=np.float32)
 
 
-async def synth(text, kind, voices, pitches, rates, retries=5):
+async def synth(text, kind, voices, pitches, rates, retries=9):
     last = None
     for attempt in range(retries):
         path = None
@@ -57,11 +58,12 @@ async def synth(text, kind, voices, pitches, rates, retries=5):
             arr = np.frombuffer(raw, dtype=np.float32)
             if arr.size < SR * 0.1:
                 raise RuntimeError("empty audio")
+            await asyncio.sleep(0.15)
             return arr
         except Exception as e:  # network or service hiccup: back off and retry
             last = e
             print(f"retry {attempt + 1}: {kind} {text[:24]!r}: {e}", flush=True)
-            await asyncio.sleep(2 * (attempt + 1))
+            await asyncio.sleep(min(45, 2 ** attempt) + random.random())
         finally:
             if path and os.path.exists(path):
                 os.unlink(path)
@@ -121,6 +123,7 @@ def main():
     episodes = json.load(open("episodes.json", encoding="utf-8")) if os.path.exists("episodes.json") else []
     os.makedirs("episodes", exist_ok=True)
     changed = 0
+    failed = []
     for path in sorted(glob.glob("scripts/*.json")):
         stem = os.path.splitext(os.path.basename(path))[0]
         raw = open(path, "rb").read()
@@ -130,16 +133,25 @@ def main():
             continue
         script = json.loads(raw.decode("utf-8"))
         print("building", stem, flush=True)
-        dur = asyncio.run(build_audio(script, out))
+        try:
+            dur = asyncio.run(build_audio(script, out))
+        except SystemExit as e:
+            print("FAILED", stem, e, flush=True)
+            failed.append(stem)
+            continue
         entry = {"id": stem, "title": script["title"], "description": script["description"],
                  "file": out, "duration": int(dur), "pub": script["pub"]}
         episodes = [e for e in episodes if e["id"] != stem] + [entry]
         manifest[stem] = digest
         changed += 1
+        json.dump(episodes, open("episodes.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        json.dump(manifest, open("audio-manifest.json", "w", encoding="utf-8"), indent=2)
     json.dump(episodes, open("episodes.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     json.dump(manifest, open("audio-manifest.json", "w", encoding="utf-8"), indent=2)
     subprocess.run([sys.executable, "tools/build_feed.py"], check=True)
-    print("episodes built:", changed)
+    print("episodes built:", changed, "failed:", failed)
+    if failed:
+        sys.exit(1)
 
 
 main()
