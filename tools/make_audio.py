@@ -101,7 +101,11 @@ async def build_audio(script, out_mp3):
             w.setframerate(SR)
             w.writeframes((pcm * 32767).astype(np.int16).tobytes())
         fx = ""
-        if script.get("fx") == "deep":
+        if script.get("fx") == "warm":
+            fx = ("highpass=f=60,equalizer=f=110:width_type=h:width=120:g=2.5,"
+                  "equalizer=f=260:width_type=q:width=1:g=1,"
+                  "acompressor=threshold=0.12:ratio=2:attack=15:release=250:makeup=1.5,")
+        elif script.get("fx") == "deep":
             fx = ("highpass=f=70,equalizer=f=110:width_type=h:width=120:g=4,"
                   "equalizer=f=260:width_type=q:width=1:g=1.5,equalizer=f=6500:width_type=h:width=3000:g=-2,"
                   "acompressor=threshold=0.09:ratio=3:attack=10:release=200:makeup=2,")
