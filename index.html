@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>每日跨領域學習</title>
+<link rel="alternate" type="application/rss+xml" title="每日跨領域學習" href="feed.xml">
+<style>
+:root { --bg:#f3f6f8; --surface:#fff; --fg:#14212b; --muted:#566774; --line:#d5dee4; --accent:#1d5c8a; color-scheme: light; }
+@media (prefers-color-scheme: dark) { :root { --bg:#0f171d; --surface:#17222a; --fg:#e6edf1; --muted:#9badb9; --line:#2b3a45; --accent:#7db7e3; color-scheme: dark; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--fg); font:17px/1.8 "Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+  padding: 28px max(16px, env(safe-area-inset-right,0px)) 48px max(16px, env(safe-area-inset-left,0px)); }
+main { max-width: 680px; margin: 0 auto; }
+h1 { font-size: 28px; margin: 0 0 6px; line-height: 1.35; }
+h2 { font-size: 18px; margin: 0; line-height: 1.5; }
+p { margin: 0 0 .8em; }
+.lead { color: var(--muted); }
+.sub { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; margin: 20px 0; }
+.sub code { display: block; overflow-wrap: anywhere; font: 14px/1.6 ui-monospace,Menlo,Consolas,monospace; margin: 6px 0 10px; }
+button { font: inherit; font-size: 15px; min-height: 44px; padding: 8px 16px; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 8px; cursor: pointer; }
+article { border-top: 1px solid var(--line); padding: 18px 0 6px; }
+.meta { color: var(--muted); font-size: 14px; margin: 2px 0 8px; }
+audio { width: 100%; margin-bottom: 12px; }
+a { color: var(--accent); }
+.note { font-size: 13px; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>每日跨領域學習</h1>
+  <p class="lead">每天三個領域的最新訊息與跨領域思考，加上英文詞塊與跟讀練習。內容為學習用的資訊整理，不構成投資或其他專業建議。</p>
+  <div class="sub">
+    <strong>Podcast 訂閱網址</strong>
+    <code id="feed">https://hajimearis.github.io/daily-learning-podcast/feed.xml</code>
+    <button id="copy" type="button">複製網址</button>
+  </div>
+    <article>
+      <h2>2026-10-21 英文軌：詞塊與跟讀（樣品）</h2>
+      <p class="meta">2026-10-21 12:51 · 5 分鐘</p>
+      <p>昨日回顧、60 到 80 字短文、5 個詞塊（例句附中文意思並停頓跟讀）、1 個句型與一句輸出練習。約 5 分鐘。</p>
+      <audio controls preload="none" src="episodes/2026-10-21-english.mp3"></audio>
+    </article>
+    <article>
+      <h2>2026-10-21 知識軌：IMF 預測、AI 搜尋、動作學習（樣品）</h2>
+      <p class="meta">2026-10-21 12:50 · 8 分鐘</p>
+      <p>經濟：IMF 把 2026 年全球成長預測上調到 3.1%。行銷：AI 搜尋能見度調查。腦神經：只刺激約 20 個神經元就能喚起學會的動作（小鼠研究）。約 8 分鐘。</p>
+      <audio controls preload="none" src="episodes/2026-10-21-knowledge.mp3"></audio>
+    </article>
+  <p class="note">本頁只保留最近 30 天的集數。</p>
+</main>
+<script>
+document.getElementById("copy").addEventListener("click", function () {
+  var t = document.getElementById("feed").textContent, b = this;
+  function ok() { b.textContent = "已複製"; }
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(ok, function () { b.textContent = "請長按網址手動複製"; });
+  else b.textContent = "請長按網址手動複製";
+});
+</script>
+</body>
+</html>
