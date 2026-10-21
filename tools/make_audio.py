@@ -43,14 +43,14 @@ def silence(ms):
     return np.zeros(int(SR * ms / 1000), dtype=np.float32)
 
 
-async def synth(text, kind, retries=5):
+async def synth(text, kind, voices, retries=5):
     last = None
     for attempt in range(retries):
         path = None
         try:
             with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as f:
                 path = f.name
-            await edge_tts.Communicate(text, VOICES[kind], rate=RATES[kind]).save(path)
+            await edge_tts.Communicate(text, voices[kind], rate=RATES[kind]).save(path)
             raw = subprocess.run(
                 ["ffmpeg", "-v", "error", "-i", path, "-f", "f32le", "-ar", str(SR), "-ac", "1", "-"],
                 capture_output=True, check=True).stdout
@@ -69,6 +69,10 @@ async def synth(text, kind, retries=5):
 
 
 async def build_audio(script, out_mp3):
+    voices = dict(VOICES)
+    ov = script.get("voices", {})
+    voices["zh"] = ov.get("zh", voices["zh"])
+    voices["en"] = voices["en-slow"] = ov.get("en", voices["en"])
     chunks = []
     for kind, value in script["queue"]:
         if kind == "pause":
@@ -76,7 +80,7 @@ async def build_audio(script, out_mp3):
             continue
         base = "zh" if kind == "zh" else "en"
         for part in split_text(value, base):
-            chunks.append(await synth(part, kind))
+            chunks.append(await synth(part, kind, voices))
             chunks.append(silence(250))
     pcm = np.concatenate(chunks)
     pcm = pcm / max(1e-6, float(np.abs(pcm).max())) * 0.9
