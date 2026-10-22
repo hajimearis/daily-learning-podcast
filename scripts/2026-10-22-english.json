@@ -1,0 +1,366 @@
+{
+ "title": "2026-10-22 英文軌：詞塊與跟讀",
+ "description": "昨日回顧、短文、5 個詞塊（例句附中文意思並停頓跟讀）、1 個句型與一句輸出練習。英文為美式發音。",
+ "pub": "2026-10-22T07:05:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，昨天的回顧。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "上調預測。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "raise a forecast"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "抵銷影響。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "offset the impact"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "只做到皮毛。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "scratch the surface"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "取得長期優勢。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "gain a long-term advantage"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "觸發學會的動作。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "trigger a learned movement"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "This week, US inflation rose to three point seven percent, as higher gasoline prices continued to fuel inflation. In marketing, a survey found that many shoppers expect brands to disclose AI use, because hidden shortcuts can erode trust. Meanwhile, brain researchers noted that teenagers mature at different rates. Smart leaders stay ahead of the curve by paying attention early."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。這個星期，美國通膨升到百分之三點七，汽油價格上漲持續推升通膨。在行銷領域，一項調查發現，許多消費者期待品牌揭露使用了 AI，因為被隱藏的取巧做法會侵蝕信任。同時，腦科學研究者指出，青少年成熟的速度各不相同。聰明的領導者，會及早留意，走在趨勢前面。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "This week, US inflation rose to three point seven percent, as higher gasoline prices continued to fuel inflation. In marketing, a survey found that many shoppers expect brands to disclose AI use, because hidden shortcuts can erode trust. Meanwhile, brain researchers noted that teenagers mature at different rates. Smart leaders stay ahead of the curve by paying attention early."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "fuel inflation"
+  ],
+  [
+   "zh",
+   "意思是，推升通膨。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Higher gasoline prices continued to fuel inflation last month."
+  ],
+  [
+   "zh",
+   "意思是，汽油價格上漲，上個月持續推升通膨。"
+  ],
+  [
+   "en-slow",
+   "Higher gasoline prices continued to fuel inflation last month."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "stay ahead of the curve"
+  ],
+  [
+   "zh",
+   "意思是，走在趨勢前面。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Smart brands stay ahead of the curve by being open about their methods."
+  ],
+  [
+   "zh",
+   "意思是，聰明的品牌對自己的做法保持公開，藉此走在趨勢前面。"
+  ],
+  [
+   "en-slow",
+   "Smart brands stay ahead of the curve by being open about their methods."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "disclose AI use"
+  ],
+  [
+   "zh",
+   "意思是，揭露使用 AI。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Many shoppers expect brands to disclose AI use in their ads."
+  ],
+  [
+   "zh",
+   "意思是，許多消費者期待品牌在廣告裡揭露使用了 AI。"
+  ],
+  [
+   "en-slow",
+   "Many shoppers expect brands to disclose AI use in their ads."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "erode trust"
+  ],
+  [
+   "zh",
+   "意思是，侵蝕信任。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Hidden shortcuts can quietly erode trust over time."
+  ],
+  [
+   "zh",
+   "意思是，被隱藏的取巧做法，會隨著時間悄悄侵蝕信任。"
+  ],
+  [
+   "en-slow",
+   "Hidden shortcuts can quietly erode trust over time."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "mature at different rates"
+  ],
+  [
+   "zh",
+   "意思是，以不同速度成熟。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Teenagers mature at different rates, so patience matters."
+  ],
+  [
+   "zh",
+   "意思是，青少年成熟的速度不同，所以耐心很重要。"
+  ],
+  [
+   "en-slow",
+   "Teenagers mature at different rates, so patience matters."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "The more A, the more B"
+  ],
+  [
+   "zh",
+   "意思是，越 A，越 B。"
+  ],
+  [
+   "en",
+   "The more open a brand is, the more people trust it."
+  ],
+  [
+   "zh",
+   "意思是，品牌越公開透明，人們就越信任它。"
+  ],
+  [
+   "en-slow",
+   "The more open a brand is, the more people trust it."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "The more I simplify my instructions, the more the students move freely."
+  ],
+  [
+   "zh",
+   "意思是，我越簡化我的指令，學生就動得越自由。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
