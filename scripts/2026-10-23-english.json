@@ -1,0 +1,422 @@
+{
+ "title": "2026-10-23 英文軌：詞塊與跟讀",
+ "description": "昨日回顧、短文、5 個詞塊（例句附中文意思並停頓跟讀）、1 個句型、一句輸出練習，以及週五的本週口說挑戰。英文為美式發音。",
+ "pub": "2026-10-23T07:05:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，昨天的回顧。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "急遽下滑。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "drop off sharply"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "維持利率不變。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hold rates steady"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "看穿標題背後。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "look past the headline"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "權衡風險。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "weigh the risks"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "使工作記憶超載。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "overload working memory"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "This week, Taiwan's export orders hit a record high, and they beat forecasts by a wide margin. But the economy now relies heavily on a few products. In marketing, shoppers prioritize experiences, even when money feels tight. And in sports science, a new study found that the effects of exercise vary from tissue to tissue. No single number, and no single tissue, tells the whole story."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。這個星期，台灣的外銷訂單創下歷史新高，而且大幅優於預期。但經濟現在高度依賴少數幾項產品。在行銷領域，就算荷包緊，消費者還是把體驗放在第一位。在運動科學領域，一項新研究發現，運動的效果因組織而異。沒有任何單一數字，也沒有任何單一組織，能說明全貌。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "This week, Taiwan's export orders hit a record high, and they beat forecasts by a wide margin. But the economy now relies heavily on a few products. In marketing, shoppers prioritize experiences, even when money feels tight. And in sports science, a new study found that the effects of exercise vary from tissue to tissue. No single number, and no single tissue, tells the whole story."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "hit a record high"
+  ],
+  [
+   "zh",
+   "意思是，創下歷史新高。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Export orders hit a record high on strong demand for AI servers."
+  ],
+  [
+   "zh",
+   "意思是，在 AI 伺服器的強勁需求下，外銷訂單創下歷史新高。"
+  ],
+  [
+   "en-slow",
+   "Export orders hit a record high on strong demand for AI servers."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "beat forecasts"
+  ],
+  [
+   "zh",
+   "意思是，優於預期。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The new numbers beat forecasts by a wide margin."
+  ],
+  [
+   "zh",
+   "意思是，新的數據大幅優於預期。"
+  ],
+  [
+   "en-slow",
+   "The new numbers beat forecasts by a wide margin."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "rely heavily on"
+  ],
+  [
+   "zh",
+   "意思是，高度依賴。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "A team that relies heavily on one star player is easy to knock off balance."
+  ],
+  [
+   "zh",
+   "意思是，高度依賴一位明星球員的球隊，很容易失去平衡。"
+  ],
+  [
+   "en-slow",
+   "A team that relies heavily on one star player is easy to knock off balance."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "prioritize experiences"
+  ],
+  [
+   "zh",
+   "意思是，把體驗放在第一位。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Many shoppers prioritize experiences over discounts this season."
+  ],
+  [
+   "zh",
+   "意思是，今年許多消費者把體驗看得比折扣重要。"
+  ],
+  [
+   "en-slow",
+   "Many shoppers prioritize experiences over discounts this season."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "vary from tissue to tissue"
+  ],
+  [
+   "zh",
+   "意思是，因組織而異。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The effects of exercise vary from tissue to tissue."
+  ],
+  [
+   "zh",
+   "意思是，運動的效果因組織而異。"
+  ],
+  [
+   "en-slow",
+   "The effects of exercise vary from tissue to tissue."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "No single A works for every B"
+  ],
+  [
+   "zh",
+   "意思是，沒有單一的 A 適用於每個 B。"
+  ],
+  [
+   "en",
+   "No single drill works for every student."
+  ],
+  [
+   "zh",
+   "意思是，沒有任何單一練習適用於每位學生。"
+  ],
+  [
+   "en-slow",
+   "No single drill works for every student."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "No single tool works for every class."
+  ],
+  [
+   "zh",
+   "意思是，沒有任何單一工具適用於每一個班。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第六段，今天是星期五，來一個本週口說挑戰。請用這三個詞塊，自己錄三十秒的英文自述，主題是你這個星期最難忘的一堂課。三個詞塊是："
+  ],
+  [
+   "pause",
+   500
+  ],
+  [
+   "en-slow",
+   "rely heavily on"
+  ],
+  [
+   "pause",
+   800
+  ],
+  [
+   "en-slow",
+   "prioritize experiences"
+  ],
+  [
+   "pause",
+   800
+  ],
+  [
+   "en-slow",
+   "hit a record high"
+  ],
+  [
+   "pause",
+   800
+  ],
+  [
+   "zh",
+   "我先示範一次，你不需要照念，只是參考。"
+  ],
+  [
+   "en",
+   "This week, I prioritized experiences over explanations in my PE class. My students relied heavily on their own sense of balance, and by Friday, their confidence hit a record high."
+  ],
+  [
+   "zh",
+   "意思是，這個星期，我在體育課把體驗放在說明之前。學生高度依賴自己的平衡感，到了星期五，他們的信心創下新高。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "現在換你。停車以後，用手機錄下三十秒。這段只給題目和示範，我沒辦法批改你的錄音，請你自己聽一遍，找一個想改的地方。"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
