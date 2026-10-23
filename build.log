@@ -1,56 +1,36 @@
 building 2026-10-23-english
-retry 1: zh '急遽下滑。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '維持利率不變。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '權衡風險。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '權衡風險。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '權衡風險。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '權衡風險。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '權衡風險。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '權衡風險。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-23-english TTS failed for '使工作記憶超載。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這個星期，台灣的外銷訂單創下歷史新高，而且大幅優': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這個星期，台灣的外銷訂單創下歷史新高，而且大幅優': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '這個星期，台灣的外銷訂單創下歷史新高，而且大幅優': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '在運動科學領域，一項新研究發現，運動的效果因組織': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '在運動科學領域，一項新研究發現，運動的效果因組織': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '在運動科學領域，一項新研究發現，運動的效果因組織': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-23-english TTS failed for '沒有任何單一數字，也沒有任何單一組織，能說明全貌。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-23-knowledge
-retry 1: zh '今天我們走過三個地方：台灣的外銷訂單、節慶消費的': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '第一個領域，總體經濟。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '第一個領域，總體經濟。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '第一個領域，總體經濟。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '第一個領域，總體經濟。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '台灣 9 月外銷訂單創下單月新高，AI 需求是主': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '台灣 9 月外銷訂單創下單月新高，AI 需求是主': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '台灣 9 月外銷訂單創下單月新高，AI 需求是主': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '台灣 9 月外銷訂單創下單月新高，AI 需求是主': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '台灣 9 月外銷訂單創下單月新高，AI 需求是主': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '經濟部統計處在 10 月 20 日公布，9 月外': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '其中電子產品約四百七十四億美元，資訊與通信產品約': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '以地區來看，美國是最大來源，約四百五十四億美元。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '經濟部預估 10 月訂單年增率落在百分之六十二到': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '這是知識整理，不是投資建議。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '這是知識整理，不是投資建議。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '這是知識整理，不是投資建議。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '這是知識整理，不是投資建議。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '這是知識整理，不是投資建議。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '數字來自 Digitimes、EconoTime': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '數字來自 Digitimes、EconoTime': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '數字來自 Digitimes、EconoTime': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '數字來自 Digitimes、EconoTime': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '外銷訂單是接到的訂單，不等於已經出貨或入帳。': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-23-knowledge TTS failed for '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打擊也剛好跟上。': No audio was received. Please verify that your parameters are correct.
-episodes: 4 dropped: 0
-episodes built: 0 failed: ['2026-10-23-english', '2026-10-23-knowledge']
+retry 1: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
