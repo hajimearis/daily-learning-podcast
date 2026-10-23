@@ -1,0 +1,366 @@
+{
+ "title": "2026-10-24 英文軌：詞塊與跟讀",
+ "description": "昨日回顧、短文、5 個詞塊（weigh on stocks 等，例句附中文並停頓跟讀）、1 個句型與一句輸出練習。美式發音。",
+ "pub": "2026-10-24T07:00:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，昨天的回顧。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "推升通膨。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "fuel inflation"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "走在趨勢前面。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "stay ahead of the curve"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "揭露使用 AI。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "disclose AI use"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "侵蝕信任。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "erode trust"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "以不同速度成熟。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "mature at different rates"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "This week, oil climbed above one hundred sixteen dollars a barrel, stoking inflation fears and weighing on stocks. In education, a study of nearly one thousand math teachers found that high expectations are not enough; students also need specific feedback. And in medicine, an AI system beat generalist doctors in a simulation, but we still need to see whether the results hold up in the real world."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。這個星期，油價漲到每桶一百一十六美元以上，引發通膨擔憂，也拖累了股市。在教育領域，一項針對近一千位數學老師的研究發現，只有高期待是不夠的，學生還需要具體的回饋。在醫療領域，一套 AI 系統在模擬測試中勝過一般醫師，但我們還需要看看，結果在真實世界是否站得住腳。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "This week, oil climbed above one hundred sixteen dollars a barrel, stoking inflation fears and weighing on stocks. In education, a study of nearly one thousand math teachers found that high expectations are not enough; students also need specific feedback. And in medicine, an AI system beat generalist doctors in a simulation, but we still need to see whether the results hold up in the real world."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "weigh on stocks"
+  ],
+  [
+   "zh",
+   "意思是，拖累股市。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Rising oil prices weighed on stocks on Friday."
+  ],
+  [
+   "zh",
+   "意思是，油價上漲，週五拖累了股市。"
+  ],
+  [
+   "en-slow",
+   "Rising oil prices weighed on stocks on Friday."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "stoke inflation fears"
+  ],
+  [
+   "zh",
+   "意思是，引發通膨擔憂。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The oil rally stoked inflation fears across the market."
+  ],
+  [
+   "zh",
+   "意思是，油價大漲，在整個市場引發了通膨擔憂。"
+  ],
+  [
+   "en-slow",
+   "The oil rally stoked inflation fears across the market."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "give specific feedback"
+  ],
+  [
+   "zh",
+   "意思是，給予具體回饋。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Good coaches give specific feedback instead of vague praise."
+  ],
+  [
+   "zh",
+   "意思是，好教練給的是具體回饋，而不是空泛的稱讚。"
+  ],
+  [
+   "en-slow",
+   "Good coaches give specific feedback instead of vague praise."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "set high expectations"
+  ],
+  [
+   "zh",
+   "意思是，設定高期待。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "She set high expectations and showed students how to reach them."
+  ],
+  [
+   "zh",
+   "意思是，她設定了高期待，也示範學生如何達到。"
+  ],
+  [
+   "en-slow",
+   "She set high expectations and showed students how to reach them."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "hold up in the real world"
+  ],
+  [
+   "zh",
+   "意思是，在真實世界站得住腳。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "We still need to see whether the results hold up in the real world."
+  ],
+  [
+   "zh",
+   "意思是，我們還需要看看，這些結果在真實世界是否站得住腳。"
+  ],
+  [
+   "en-slow",
+   "We still need to see whether the results hold up in the real world."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "The key is not A, but B"
+  ],
+  [
+   "zh",
+   "意思是，重點不是 A，而是 B。"
+  ],
+  [
+   "en",
+   "The key is not how hard you push, but how clearly you guide."
+  ],
+  [
+   "zh",
+   "意思是，重點不是你推得多用力，而是你引導得多清楚。"
+  ],
+  [
+   "en-slow",
+   "The key is not how hard you push, but how clearly you guide."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "The key is not how many drills we do, but how clearly I explain them."
+  ],
+  [
+   "zh",
+   "意思是，重點不是我們做幾種練習，而是我說明得多清楚。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
