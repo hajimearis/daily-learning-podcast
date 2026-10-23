@@ -1,36 +1,30 @@
 building 2026-10-23-english
-retry 1: zh '這個星期，台灣的外銷訂單創下歷史新高，而且大幅優': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '這個星期，台灣的外銷訂單創下歷史新高，而且大幅優': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '這個星期，台灣的外銷訂單創下歷史新高，而且大幅優': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '在運動科學領域，一項新研究發現，運動的效果因組織': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '在運動科學領域，一項新研究發現，運動的效果因組織': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '在運動科學領域，一項新研究發現，運動的效果因組織': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '沒有任何單一數字，也沒有任何單一組織，能說明全貌': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-23-english TTS failed for '沒有任何單一數字，也沒有任何單一組織，能說明全貌。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-23-knowledge
-retry 1: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '一支球隊今年一路贏球，是因為王牌投手狀態爆表，打': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '看訂單，除了問成長多快，也要問是靠幾個人撐起來的': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '跨領域連結\u3000基礎動作的多樣性': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這是借用的思維模型，並不是在預測台灣經濟。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '品牌面對的，是同時踩著兩個踏板的人。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '骨骼肌的變化最大，雌鼠的反應也比雄鼠更廣。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '體育課說一句「大家一起跳」，每個孩子的身體處理的': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '體育課說一句「大家一起跳」，每個孩子的身體處理的': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '體育課說一句「大家一起跳」，每個孩子的身體處理的': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '空間動力常提到，同一個動作可以從不同的身體部位、': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '看一個整體的數字之外，也要問，它是由誰撐起來的，': No audio was received. Please verify that your parameters are correct.
+building 2026-10-24-english
+retry 1: zh '推升通膨。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，油價上漲，週五拖累了股市。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，我們還需要看看，這些結果在真實世界是否站': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，我們還需要看看，這些結果在真實世界是否站': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，我們還需要看看，這些結果在真實世界是否站': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，我們還需要看看，這些結果在真實世界是否站': No audio was received. Please verify that your parameters are correct.
+building 2026-10-24-knowledge
+retry 1: zh '一項即將發表的研究發現，老師強調高期待時，回饋會': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '一項即將發表的研究發現，老師強調高期待時，回饋會': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '一組老師照平常方式給意見，另一組被要求著重標準與': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '比喻：只說你走偏了的導航': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '比喻：只說你走偏了的導航': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '比喻：只說你走偏了的導航': No audio was received. Please verify that your parameters are correct.
+retry 1: zh 'AI 診斷準確率是醫生的兩倍多？': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '微軟的診斷系統登上《Science》，數字很亮眼': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '數字很高，不等於在真實世界一樣高。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '油價漲，帶動通膨擔憂，再一路傳到利率和股市，源頭': No audio was received. Please verify that your parameters are correct.
+episodes: 8 dropped: 0
+episodes built: 4 failed: []
