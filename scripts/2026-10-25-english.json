@@ -1,0 +1,506 @@
+{
+ "title": "2026-10-25 英文軌：詞塊與跟讀",
+ "description": "昨日回顧、短文、5 個詞塊（keep a tightening bias 等，例句附中文並停頓跟讀）、1 個句型、輸出練習與週日本週測驗。美式發音。",
+ "pub": "2026-10-25T07:00:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，昨天的回顧。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "急遽下滑。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "drop off sharply"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "維持利率不變。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hold rates steady"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "看穿標題背後。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "look past the headline"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "權衡風險。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "weigh the risks"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "使工作記憶超載。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "overload working memory"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "This week, the Fed is expected to keep a tightening bias, and markets have already priced in a rate hike for December. A new study found that many people take a mental shortcut and judge a choice by a single feature. And a United Nations report warns that the world will overshoot its climate target, unless leaders close the gap between pledges and action."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。這個星期，預期聯準會會維持偏向緊縮的立場，市場也已經把十二月的升息預期算進價格。一項新研究發現，許多人會走心智捷徑，只憑單一特徵來判斷一個選擇。聯合國的一份報告警告，除非領導者縮小承諾與行動之間的落差，否則世界會超出氣候目標。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "This week, the Fed is expected to keep a tightening bias, and markets have already priced in a rate hike for December. A new study found that many people take a mental shortcut and judge a choice by a single feature. And a United Nations report warns that the world will overshoot its climate target, unless leaders close the gap between pledges and action."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "keep a tightening bias"
+  ],
+  [
+   "zh",
+   "意思是，維持偏向緊縮的立場。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The central bank is expected to keep a tightening bias for now."
+  ],
+  [
+   "zh",
+   "意思是，預期央行目前會維持偏向緊縮的立場。"
+  ],
+  [
+   "en-slow",
+   "The central bank is expected to keep a tightening bias for now."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "price in a rate hike"
+  ],
+  [
+   "zh",
+   "意思是，把升息預期算進價格。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Bond markets have already priced in a rate hike this winter."
+  ],
+  [
+   "zh",
+   "意思是，債券市場已經把今年冬天的升息預期算進價格了。"
+  ],
+  [
+   "en-slow",
+   "Bond markets have already priced in a rate hike this winter."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "take a mental shortcut"
+  ],
+  [
+   "zh",
+   "意思是，走心智捷徑。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "When we are tired, we tend to take a mental shortcut."
+  ],
+  [
+   "zh",
+   "意思是，人累的時候，容易走心智捷徑。"
+  ],
+  [
+   "en-slow",
+   "When we are tired, we tend to take a mental shortcut."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "overshoot the target"
+  ],
+  [
+   "zh",
+   "意思是，超出目標。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "If we brake too late, we will overshoot the target."
+  ],
+  [
+   "zh",
+   "意思是，如果煞車太晚，我們就會超出目標。"
+  ],
+  [
+   "en-slow",
+   "If we brake too late, we will overshoot the target."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "close the gap between pledges and action"
+  ],
+  [
+   "zh",
+   "意思是，縮小承諾與行動的落差。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Leaders must close the gap between pledges and action."
+  ],
+  [
+   "zh",
+   "意思是，領導者必須縮小承諾與行動之間的落差。"
+  ],
+  [
+   "en-slow",
+   "Leaders must close the gap between pledges and action."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "Rather than A, many people B"
+  ],
+  [
+   "zh",
+   "意思是，與其做 A，許多人會做 B。"
+  ],
+  [
+   "en",
+   "Rather than compare every detail, many people judge by one feature."
+  ],
+  [
+   "zh",
+   "意思是，與其比較每個細節，許多人只憑單一特徵判斷。"
+  ],
+  [
+   "en-slow",
+   "Rather than compare every detail, many people judge by one feature."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "Rather than explain every step, I let the students try first."
+  ],
+  [
+   "zh",
+   "意思是，我沒有解釋每一個步驟，而是先讓學生嘗試。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第六段，每週日的本週測驗。從這個星期學過的詞塊，抽八個。我說中文，停五秒，請你說出英文，然後我念答案。正確率低於八成的，今天再補一遍。"
+  ],
+  [
+   "zh",
+   "第1題。優於預期。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "beat forecasts"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第2題。在真實世界站得住腳。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "hold up in the real world"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第3題。給予具體回饋。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "give specific feedback"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第4題。侵蝕信任。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "erode trust"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第5題。引發通膨擔憂。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "stoke inflation fears"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第6題。因組織而異。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "vary from tissue to tissue"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第7題。嚴重依賴。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "rely heavily on"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "第8題。走在趨勢前面。"
+  ],
+  [
+   "pause",
+   5000
+  ],
+  [
+   "en-slow",
+   "stay ahead of the curve"
+  ],
+  [
+   "pause",
+   1500
+  ],
+  [
+   "zh",
+   "測驗結束。答不出來的，請在圖像頁的閃卡標成不熟，系統會讓它們更常出現。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
