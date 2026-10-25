@@ -1,0 +1,366 @@
+{
+ "title": "2026-10-26 英文軌：詞塊與跟讀",
+ "description": "昨日回顧、短文、5 個詞塊（drag on growth、run a trade surplus 等）、1 個句型與輸出練習。英文為美式發音。",
+ "pub": "2026-10-26T07:00:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，間隔複習。這五個是你之前學過的詞塊。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "急遽下滑。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "drop off sharply"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "維持利率不變。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hold rates steady"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "看穿標題背後。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "look past the headline"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "權衡風險。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "weigh the risks"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "使工作記憶超載。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "overload working memory"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "This week, China reported that its economy grew four point five percent in the third quarter. Exports were strong and the country keeps running a trade surplus, but the property slump continues to drag on growth. In marketing, Marriott worked with creators to scale up quickly, and it wanted its ads to come across as relatable. And in language research, scientists found that three new dimensions can account for most of the variation in word meaning."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。這個星期，中國公布第三季經濟年增百分之四點五。出口很強，貿易順差持續，但房地產的低迷仍然拖累成長。在行銷領域，萬豪和創作者合作，快速擴大規模，也希望廣告給人貼近、有共鳴的感覺。在語言研究中，科學家發現，三個新的向度，可以解釋詞義大部分的差異。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "This week, China reported that its economy grew four point five percent in the third quarter. Exports were strong and the country keeps running a trade surplus, but the property slump continues to drag on growth. In marketing, Marriott worked with creators to scale up quickly, and it wanted its ads to come across as relatable. And in language research, scientists found that three new dimensions can account for most of the variation in word meaning."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "drag on growth"
+  ],
+  [
+   "zh",
+   "意思是，拖累成長。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Falling property investment continues to drag on growth."
+  ],
+  [
+   "zh",
+   "意思是，房地產投資持續下滑，繼續拖累成長。"
+  ],
+  [
+   "en-slow",
+   "Falling property investment continues to drag on growth."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "run a trade surplus"
+  ],
+  [
+   "zh",
+   "意思是，維持貿易順差。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The country has run a trade surplus for many years."
+  ],
+  [
+   "zh",
+   "意思是，這個國家多年來一直維持貿易順差。"
+  ],
+  [
+   "en-slow",
+   "The country has run a trade surplus for many years."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "scale up quickly"
+  ],
+  [
+   "zh",
+   "意思是，快速擴大規模。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "A small workshop can scale up quickly with the right partners."
+  ],
+  [
+   "zh",
+   "意思是，小型工作坊只要有對的夥伴，就能快速擴大規模。"
+  ],
+  [
+   "en-slow",
+   "A small workshop can scale up quickly with the right partners."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "come across as relatable"
+  ],
+  [
+   "zh",
+   "意思是，給人貼近、有共鳴的感覺。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "A simple, honest video can come across as more relatable."
+  ],
+  [
+   "zh",
+   "意思是，簡單又誠實的影片，往往讓人覺得更有共鳴。"
+  ],
+  [
+   "en-slow",
+   "A simple, honest video can come across as more relatable."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "account for most of the variation"
+  ],
+  [
+   "zh",
+   "意思是，解釋大部分差異。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "One factor can account for most of the variation in test scores."
+  ],
+  [
+   "zh",
+   "意思是，一個因素就能解釋測驗分數大部分的差異。"
+  ],
+  [
+   "en-slow",
+   "One factor can account for most of the variation in test scores."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "While A is strong, B is weak"
+  ],
+  [
+   "zh",
+   "意思是，雖然 A 很強，B 卻很弱。"
+  ],
+  [
+   "en",
+   "While exports are strong, consumer spending remains weak."
+  ],
+  [
+   "zh",
+   "意思是，雖然出口很強勁，消費卻仍然疲弱。"
+  ],
+  [
+   "en-slow",
+   "While exports are strong, consumer spending remains weak."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "While the drill looks simple, the idea behind it is powerful."
+  ],
+  [
+   "zh",
+   "意思是，雖然這個練習看起來簡單，背後的想法卻很有力量。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
