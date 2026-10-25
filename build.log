@@ -1,4 +1,30 @@
-building 2026-10-25-english
-building 2026-10-25-knowledge
+building 2026-10-26-english
+retry 1: zh '這五個是你之前學過的詞塊。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這五個是你之前學過的詞塊。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '這五個是你之前學過的詞塊。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '這五個是你之前學過的詞塊。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '這五個是你之前學過的詞塊。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '這五個是你之前學過的詞塊。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-26-english TTS failed for '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
+building 2026-10-26-knowledge
+retry 1: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-26-knowledge TTS failed for '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
 episodes: 10 dropped: 0
-episodes built: 2 failed: []
+episodes built: 0 failed: ['2026-10-26-english', '2026-10-26-knowledge']
