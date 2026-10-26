@@ -1,0 +1,366 @@
+{
+ "title": "2026-10-27 英文軌：詞塊與跟讀",
+ "description": "昨日回顧、短文、5 個詞塊（push yields higher、shed light on 等）、1 個句型與輸出練習。英文為美式發音。",
+ "pub": "2026-10-27T07:00:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，間隔複習。這五個是你之前學過的詞塊。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "越 A，越 B。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "The more A, the more B"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "創下歷史新高。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hit a record high"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "優於預期。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "beat forecasts"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "高度依賴。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "rely heavily on"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "把體驗放在第一位。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "prioritize experiences"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "Last Friday, rising oil prices pushed yields higher, and investors are bracing for the Fed's decision. In sports science, a rat study suggests that nerves near the heart adapt to regular training in surprising ways, but it is too early to say whether people respond the same way. And in Peru, ancient dog remains shed light on how people lived twelve hundred years ago, although researchers avoid drawing firm conclusions about their feelings."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。上週五，油價上漲推升了殖利率，投資人正嚴陣以待聯準會的決定。在運動科學領域，一項大鼠研究顯示，心臟附近的神經會用令人意外的方式適應規律訓練，但現在還太早，無法斷言人類是否也一樣。在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人如何生活，不過研究者不對牠們的情感下確定的結論。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "Last Friday, rising oil prices pushed yields higher, and investors are bracing for the Fed's decision. In sports science, a rat study suggests that nerves near the heart adapt to regular training in surprising ways, but it is too early to say whether people respond the same way. And in Peru, ancient dog remains shed light on how people lived twelve hundred years ago, although researchers avoid drawing firm conclusions about their feelings."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "push yields higher"
+  ],
+  [
+   "zh",
+   "意思是，推升殖利率。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Rising oil prices can push yields higher."
+  ],
+  [
+   "zh",
+   "意思是，油價上漲，可能推升殖利率。"
+  ],
+  [
+   "en-slow",
+   "Rising oil prices can push yields higher."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "brace for a decision"
+  ],
+  [
+   "zh",
+   "意思是，嚴陣以待某個決定。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Investors are bracing for the central bank's decision."
+  ],
+  [
+   "zh",
+   "意思是，投資人正嚴陣以待央行的決定。"
+  ],
+  [
+   "en-slow",
+   "Investors are bracing for the central bank's decision."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "adapt to regular training"
+  ],
+  [
+   "zh",
+   "意思是，適應規律的訓練。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The body can adapt to regular training in different ways."
+  ],
+  [
+   "zh",
+   "意思是，身體可以用不同的方式，適應規律的訓練。"
+  ],
+  [
+   "en-slow",
+   "The body can adapt to regular training in different ways."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "shed light on"
+  ],
+  [
+   "zh",
+   "意思是，讓人更明白、提供線索。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The new finding sheds light on how ancient people lived."
+  ],
+  [
+   "zh",
+   "意思是，這項新發現，讓我們更了解古代人怎麼生活。"
+  ],
+  [
+   "en-slow",
+   "The new finding sheds light on how ancient people lived."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "draw firm conclusions"
+  ],
+  [
+   "zh",
+   "意思是，下確定的結論。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "It is hard to draw firm conclusions from such a small sample."
+  ],
+  [
+   "zh",
+   "意思是，從這麼小的樣本，很難下確定的結論。"
+  ],
+  [
+   "en-slow",
+   "It is hard to draw firm conclusions from such a small sample."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "It is too early to say whether A will B"
+  ],
+  [
+   "zh",
+   "意思是，現在還太早，無法斷言 A 是否會 B。"
+  ],
+  [
+   "en",
+   "It is too early to say whether the results apply to humans."
+  ],
+  [
+   "zh",
+   "意思是，現在還太早，無法斷言這些結果是否適用於人類。"
+  ],
+  [
+   "en-slow",
+   "It is too early to say whether the results apply to humans."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "It is too early to say whether this warm-up will improve their balance."
+  ],
+  [
+   "zh",
+   "意思是，現在還太早，無法斷言這個暖身是否會改善他們的平衡。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
