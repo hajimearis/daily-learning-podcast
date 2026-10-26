@@ -1,50 +1,113 @@
 building 2026-10-26-english
-retry 1: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '這個星期，中國公布第三季經濟年增百分之四點五。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '出口很強，貿易順差持續，但房地產的低迷仍然拖累成': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '出口很強，貿易順差持續，但房地產的低迷仍然拖累成': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '出口很強，貿易順差持續，但房地產的低迷仍然拖累成': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '在行銷領域，萬豪和創作者合作，快速擴大規模，也希': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '在行銷領域，萬豪和創作者合作，快速擴大規模，也希': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '在行銷領域，萬豪和創作者合作，快速擴大規模，也希': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '在行銷領域，萬豪和創作者合作，快速擴大規模，也希': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '在行銷領域，萬豪和創作者合作，快速擴大規模，也希': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '在行銷領域，萬豪和創作者合作，快速擴大規模，也希': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '在語言研究中，科學家發現，三個新的向度，可以解釋': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '在語言研究中，科學家發現，三個新的向度，可以解釋': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，拖累成長。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，拖累成長。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '意思是，拖累成長。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，房地產投資持續下滑，繼續拖累成長。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，房地產投資持續下滑，繼續拖累成長。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '意思是，房地產投資持續下滑，繼續拖累成長。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，維持貿易順差。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，維持貿易順差。': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-26-english TTS failed for '意思是，快速擴大規模。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，一個因素就能解釋測驗分數大部分的差異。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-26-english TTS failed for '意思是，雖然 A 很強，B 卻很弱。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-26-knowledge
-retry 1: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '今天是十月二十六日，星期一。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '今天我們走過三個地方：中國第三季的經濟成長、萬豪': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-26-knowledge TTS failed for '今天我們走過三個地方：中國第三季的經濟成長、萬豪用創作者做廣告，還有詞語意義的新': No audio was received. Please verify that your parameters are correct.
-episodes: 10 dropped: 0
-episodes built: 0 failed: ['2026-10-26-english', '2026-10-26-knowledge']
+retry 1: zh '成長率比預期稍好，但細看分項，一條腿很有力，另一': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '10 月 19 日，中國國家統計局公布第三季經濟': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '10 月 19 日，中國國家統計局公布第三季經濟': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '依媒體整理，GDP 年增 4.5%，高於路透調查': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '前三季合計年增 4.6%，落在政府今年 4.5%': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '前三季合計年增 4.6%，落在政府今年 4.5%': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '季增 1.2%，上一季是 0.9%。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '季增 1.2%，上一季是 0.9%。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '季增 1.2%，上一季是 0.9%。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '季增 1.2%，上一季是 0.9%。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '季增 1.2%，上一季是 0.9%。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '「年增」是跟去年同期比，「季增」是跟上一季比。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '但分項數字很分歧。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '9 月工業生產年增 5.5%，是半年來最快。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '9 月工業生產年增 5.5%，是半年來最快。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '零售銷售只增 1.1%，雖然比 8 月的 0.4': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '零售銷售只增 1.1%，雖然比 8 月的 0.4': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '零售銷售只增 1.1%，雖然比 8 月的 0.4': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '報導說，出口是這一季成長的主要動力，9 月貿易順': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '贏球的時候大家很開心，真正的考驗是前鋒偶爾沒進球': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '跨領域連結\u3000單腳撐住的平衡': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '跨領域連結\u3000單腳撐住的平衡': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '跨領域連結\u3000單腳撐住的平衡': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '身體只用一隻腳撐，短時間可以走得很快，但容易累，': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '身體只用一隻腳撐，短時間可以走得很快，但容易累，': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '身體只用一隻腳撐，短時間可以走得很快，但容易累，': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '身體只用一隻腳撐，短時間可以走得很快，但容易累，': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '身體只用一隻腳撐，短時間可以走得很快，但容易累，': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '身體只用一隻腳撐，短時間可以走得很快，但容易累，': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '好的動作靠左右兩邊分擔，重心在兩者之間流動。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '看經濟成長率也可以問同一件事：這個數字，是幾條腿': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '不過，這只是借來的比喻，並不是對中國經濟的結論。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '10 月 19 日，Marketing Dive': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '10 月 19 日，Marketing Dive': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這次沒有走傳統的廣告製作流程，而是和創作者合作，': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '創作者網絡由代理商 Beautiful Dest': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '萬豪的全球行銷資深副總說，要在分散各地的飯店拍內': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '活動還在進行，萬豪還沒公布觸及、互動或業績成果，': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '活動還在進行，萬豪還沒公布觸及、互動或業績成果，': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '報導裡旅客在機場想下一趟旅行的比例等數字，來自萬': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '報導裡旅客在機場想下一趟旅行的比例等數字，來自萬': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '比喻：朋友的聚餐照': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '官方菜單的照片很精緻，但朋友隨手拍、有點歪的聚餐': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '不是因為拍得好，而是因為看起來像真的有人在那裡好': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '不是因為拍得好，而是因為看起來像真的有人在那裡好': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '跨領域連結\u3000不完美的示範，更讓人敢試': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '跨領域連結\u3000不完美的示範，更讓人敢試': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '跨領域連結\u3000不完美的示範，更讓人敢試': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '跨領域連結\u3000不完美的示範，更讓人敢試': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '跨領域連結\u3000不完美的示範，更讓人敢試': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '跨領域連結\u3000不完美的示範，更讓人敢試': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '詞語的意義，也許先問的是安不安全。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '10 月 24 日，ScienceDaily 介': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '10 月 24 日，ScienceDaily 介': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '過去大約七十年，心理學與語言研究常用「愉悅、激動': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '團隊分析了兩萬多個詞、數十億次的實際使用，來源包': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '他們發現，原本那三個向度並不是彼此獨立的。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '另外，和安全有關的詞，出現得比和危險有關的詞更頻': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這是依新聞稿整理，我沒有讀到論文全文。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這是依新聞稿整理，我沒有讀到論文全文。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '比喻：走進陌生的山路': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '比喻：走進陌生的山路': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '比喻：走進陌生的山路': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '比喻：走進陌生的山路': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '走進一條沒走過的山路，你的腦袋最先問的，多半不是': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '而是：這裡有沒有比我強的東西？': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '而是：這裡有沒有比我強的東西？': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '有沒有危險？': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '有沒有危險？': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '跨領域連結\u3000先有安全與結構，才有學習': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '跨領域連結\u3000先有安全與結構，才有學習': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '學員走進課堂，第一個問題往往不是「我喜不喜歡」，': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '學員走進課堂，第一個問題往往不是「我喜不喜歡」，': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '學員走進課堂，第一個問題往往不是「我喜不喜歡」，': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '學員走進課堂，第一個問題往往不是「我喜不喜歡」，': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '清楚的規則、可預期的流程、不被取笑的氛圍，就是課': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-26-knowledge TTS failed for '清楚的規則、可預期的流程、不被取笑的氛圍，就是課堂的結構。': No audio was received. Please verify that your parameters are correct.
+building 2026-10-27-english
+retry 1: zh '越 A，越 B。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '越 A，越 B。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '越 A，越 B。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '創下歷史新高。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '創下歷史新高。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '創下歷史新高。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '把體驗放在第一位。': No audio was received. Please verify that your parameters are correct.
