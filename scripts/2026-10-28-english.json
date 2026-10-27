@@ -1,0 +1,366 @@
+{
+ "title": "2026-10-28 英文軌：詞塊與跟讀",
+ "description": "間隔複習、短文、5 個詞塊（signal a policy shift、cut back on ad spending 等）、1 個句型與輸出練習。英文為美式發音。",
+ "pub": "2026-10-28T07:01:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，間隔複習。這五個是你之前學過的詞塊。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "維持利率不變。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hold rates steady"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "看透標題背後。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "look past the headline"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "衡量風險。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "weigh the risks"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "使工作記憶超載。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "overload working memory"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "越 A，越 B。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "The more A, the more B"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "On Wednesday, the Fed is expected to hold rates steady, but investors will look past the headline and listen for any signal of a policy shift. In marketing, many big brands now spend less on ads as a share of sales, even though their budgets have grown. And a small study on phone use suggests that self-control may matter more than hours, because every app is competing for attention."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。星期三，聯準會預期會維持利率不變，但投資人會看透標題，留意任何政策轉向的訊號。在行銷領域，許多大品牌現在花在廣告上的錢，占營收的比重變小了，雖然他們的預算其實在增加。另外，一項關於手機使用的小型研究顯示，自制力可能比時數更重要，因為每個 App 都在爭奪注意力。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "On Wednesday, the Fed is expected to hold rates steady, but investors will look past the headline and listen for any signal of a policy shift. In marketing, many big brands now spend less on ads as a share of sales, even though their budgets have grown. And a small study on phone use suggests that self-control may matter more than hours, because every app is competing for attention."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "signal a policy shift"
+  ],
+  [
+   "zh",
+   "意思是，釋出政策轉向的訊號。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "A single remark from the chair can signal a policy shift."
+  ],
+  [
+   "zh",
+   "意思是，主席的一句話，就可能釋出政策轉向的訊號。"
+  ],
+  [
+   "en-slow",
+   "A single remark from the chair can signal a policy shift."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "cut back on ad spending"
+  ],
+  [
+   "zh",
+   "意思是，縮減廣告支出。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "When sales slow, some brands cut back on ad spending first."
+  ],
+  [
+   "zh",
+   "意思是，銷售放緩時，有些品牌會先縮減廣告支出。"
+  ],
+  [
+   "en-slow",
+   "When sales slow, some brands cut back on ad spending first."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "as a share of sales"
+  ],
+  [
+   "zh",
+   "意思是，占營收的比重。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Ad spending fell as a share of sales, even though the budget grew."
+  ],
+  [
+   "zh",
+   "意思是，雖然預算增加了，廣告支出占營收的比重卻下降了。"
+  ],
+  [
+   "en-slow",
+   "Ad spending fell as a share of sales, even though the budget grew."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "compete for attention"
+  ],
+  [
+   "zh",
+   "意思是，爭奪注意力。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Every app on your phone is competing for your attention."
+  ],
+  [
+   "zh",
+   "意思是，你手機裡的每個 App，都在爭奪你的注意力。"
+  ],
+  [
+   "en-slow",
+   "Every app on your phone is competing for your attention."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "struggle with self-control"
+  ],
+  [
+   "zh",
+   "意思是，難以自我克制。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Many people struggle with self-control late at night."
+  ],
+  [
+   "zh",
+   "意思是，許多人在深夜很難克制自己。"
+  ],
+  [
+   "en-slow",
+   "Many people struggle with self-control late at night."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "A may look like B, but it is really C"
+  ],
+  [
+   "zh",
+   "意思是，A 看起來像 B，其實是 C。"
+  ],
+  [
+   "en",
+   "A falling ratio may look like a budget cut, but it is really a sign of faster sales growth."
+  ],
+  [
+   "zh",
+   "意思是，比例下降看起來像是預算被砍，其實是營收成長更快的跡象。"
+  ],
+  [
+   "en-slow",
+   "A falling ratio may look like a budget cut, but it is really a sign of faster sales growth."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "A quiet class may look like a focused class, but it is really a tired one."
+  ],
+  [
+   "zh",
+   "意思是，安靜的班級看起來像專注的班級，其實是疲憊的班級。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
