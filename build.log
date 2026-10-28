@@ -1,16 +1,26 @@
-building 2026-10-26-english
-building 2026-10-26-knowledge
 building 2026-10-27-english
 retry 1: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
 retry 3: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-27-english TTS failed for '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人如何生活，不過研究者不對牠們的情': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，推升殖利率。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，油價上漲，可能推升殖利率。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，嚴陣以待某個決定。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，嚴陣以待某個決定。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，嚴陣以待某個決定。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，投資人正嚴陣以待央行的決定。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-27-english TTS failed for '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-27-knowledge
 retry 1: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
@@ -23,65 +33,42 @@ retry 8: zh '今天是十月二十七日，星期二。': No audio was received.
 retry 9: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
 FAILED 2026-10-27-knowledge TTS failed for '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-28-english
-retry 1: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '看透標題背後。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '衡量風險。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '星期三，聯準會預期會維持利率不變，但投資人會看透': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-28-english TTS failed for '星期三，聯準會預期會維持利率不變，但投資人會看透標題，留意任何政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-28-english TTS failed for '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-28-knowledge
-retry 1: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '今天是十月二十八日，星期三。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '今天我們走過三個地方：聯準會決議日的市場預期、大': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '第一個領域，財經與市場。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '第一個領域，財經與市場。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '第一個領域，財經與市場。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '聯準會今天公布決議，市場先把答案算進價格裡。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '美東時間 10 月 28 日下午兩點公布決議，多': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '依 Kiplinger 的報導，這場會議從 10': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '依 Kiplinger 的報導，這場會議從 10': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '聯邦資金利率的目標區間是 3.75% 到 4.0': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '聯邦資金利率的目標區間是 3.75% 到 4.0': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '聯邦資金利率的目標區間是 3.75% 到 4.0': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
 retry 3: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
 retry 4: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-28-knowledge TTS failed for '芝加哥商品交易所的 FedWatch 工具顯示，十月維持不變的機率約 90.6%': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-28-knowledge TTS failed for '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
 episodes: 12 dropped: 0
-episodes built: 2 failed: ['2026-10-27-english', '2026-10-27-knowledge', '2026-10-28-english', '2026-10-28-knowledge']
+episodes built: 0 failed: ['2026-10-27-english', '2026-10-27-knowledge', '2026-10-28-english', '2026-10-28-knowledge']
