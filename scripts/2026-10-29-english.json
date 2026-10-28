@@ -1,0 +1,366 @@
+{
+ "title": "2026-10-29 英文軌：詞塊與跟讀",
+ "description": "間隔複習、短文、5 個詞塊（ride the wave of demand、rule out other explanations 等）、1 個句型與輸出練習。英文為美式發音。",
+ "pub": "2026-10-29T07:01:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，間隔複習。這五個是你之前學過的詞塊。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "走在趨勢前面。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "stay ahead of the curve"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "揭露使用 AI。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "disclose AI use"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "侵蝕信任。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "erode trust"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "推升通膨。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "fuel inflation"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "創下歷史新高。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hit a record high"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "Taiwan's export orders hit a record high in September, as exporters rode the wave of AI demand. Growth moderated from a high base, but orders still topped one hundred billion dollars. In education, researchers pooled data from many studies and found that teacher wellbeing is linked to better student outcomes. But that does not prove it causes them. And scientists studying spiders had to rule out other explanations before calling it sleep."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。台灣 9 月的外銷訂單創下歷史新高，因為出口商乘著 AI 需求的浪潮。成長率從高基期放緩，但訂單仍然超過一千億美元。在教育領域，研究者彙整了許多研究的資料，發現教師福祉與更好的學生學習成果有關，但這不能證明是因果。而研究蜘蛛的科學家，必須先排除其他解釋，才能把牠們的狀態稱為睡眠。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "Taiwan's export orders hit a record high in September, as exporters rode the wave of AI demand. Growth moderated from a high base, but orders still topped one hundred billion dollars. In education, researchers pooled data from many studies and found that teacher wellbeing is linked to better student outcomes. But that does not prove it causes them. And scientists studying spiders had to rule out other explanations before calling it sleep."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "ride the wave of demand"
+  ],
+  [
+   "zh",
+   "意思是，乘著需求的浪潮。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Taiwan's exporters are riding the wave of AI demand."
+  ],
+  [
+   "zh",
+   "意思是，台灣的出口商正乘著 AI 需求的浪潮。"
+  ],
+  [
+   "en-slow",
+   "Taiwan's exporters are riding the wave of AI demand."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "moderate from a high base"
+  ],
+  [
+   "zh",
+   "意思是，從高基期放緩。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Growth moderated from a high base, but orders still topped one hundred billion dollars."
+  ],
+  [
+   "zh",
+   "意思是，成長率從高基期放緩，但訂單仍然超過一千億美元。"
+  ],
+  [
+   "en-slow",
+   "Growth moderated from a high base, but orders still topped one hundred billion dollars."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "be linked to better outcomes"
+  ],
+  [
+   "zh",
+   "意思是，與更好的成果有關。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Teacher wellbeing is linked to better student outcomes."
+  ],
+  [
+   "zh",
+   "意思是，教師福祉與更好的學生學習成果有關。"
+  ],
+  [
+   "en-slow",
+   "Teacher wellbeing is linked to better student outcomes."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "pool data from many studies"
+  ],
+  [
+   "zh",
+   "意思是，彙整多項研究的資料。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The team pooled data from many studies across thirty-three countries."
+  ],
+  [
+   "zh",
+   "意思是，研究團隊彙整了三十三個國家的許多研究資料。"
+  ],
+  [
+   "en-slow",
+   "The team pooled data from many studies across thirty-three countries."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "rule out other explanations"
+  ],
+  [
+   "zh",
+   "意思是，排除其他解釋。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Scientists need to rule out other explanations before drawing a conclusion."
+  ],
+  [
+   "zh",
+   "意思是，科學家在下結論之前，需要排除其他解釋。"
+  ],
+  [
+   "en-slow",
+   "Scientists need to rule out other explanations before drawing a conclusion."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "A is linked to B, but that does not prove A causes B"
+  ],
+  [
+   "zh",
+   "意思是，A 與 B 有關聯，但這不能證明 A 導致 B。"
+  ],
+  [
+   "en",
+   "Late nights are linked to lower grades, but that does not prove late nights cause them."
+  ],
+  [
+   "zh",
+   "意思是，熬夜與較低的成績有關，但這不能證明是熬夜造成的。"
+  ],
+  [
+   "en-slow",
+   "Late nights are linked to lower grades, but that does not prove late nights cause them."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "Calm classes are linked to better focus, but that does not prove calm causes it."
+  ],
+  [
+   "zh",
+   "意思是，平靜的班級與更好的專注有關，但這不能證明是平靜造成的。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。明天是星期五，別忘了週五口說挑戰。"
+  ]
+ ],
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm",
+ "rev": 1
+}
