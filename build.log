@@ -1,26 +1,31 @@
 building 2026-10-27-english
-retry 1: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '在祕魯，古代狗的遺骨讓我們更了解一千兩百年前的人': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，推升殖利率。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，油價上漲，可能推升殖利率。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，嚴陣以待某個決定。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，嚴陣以待某個決定。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '意思是，嚴陣以待某個決定。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，投資人正嚴陣以待央行的決定。': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '意思是，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '意思是，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
 retry 3: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
 retry 4: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
 retry 5: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-27-english TTS failed for '意思是，身體可以用不同的方式，適應規律的訓練。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，讓人更明白、提供線索。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，讓人更明白、提供線索。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，讓人更明白、提供線索。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '意思是，從這麼小的樣本，很難下確定的結論。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-27-english TTS failed for '意思是，現在還太早，無法斷言 A 是否會 B。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-27-knowledge
 retry 1: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
@@ -29,46 +34,130 @@ retry 4: zh '今天是十月二十七日，星期二。': No audio was received.
 retry 5: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
 retry 6: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
 retry 7: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-27-knowledge TTS failed for '今天是十月二十七日，星期二。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '今天我們走過三個地方：十年期公債殖利率逼近百分之': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '今天我們走過三個地方：十年期公債殖利率逼近百分之': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '今天我們走過三個地方：十年期公債殖利率逼近百分之': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '今天我們走過三個地方：十年期公債殖利率逼近百分之': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '今天我們走過三個地方：十年期公債殖利率逼近百分之': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '今天我們走過三個地方：十年期公債殖利率逼近百分之': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '十年期公債殖利率逼近 5%，市場在等聯準會開口。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '十年期公債殖利率逼近 5%，市場在等聯準會開口。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '十年期公債殖利率逼近 5%，市場在等聯準會開口。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '上週五美股收低，油價上漲、公債殖利率升到 4.9': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '上週五美股收低，油價上漲、公債殖利率升到 4.9': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '上週五美股收低，油價上漲、公債殖利率升到 4.9': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '上週五美股收低，油價上漲、公債殖利率升到 4.9': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '10 月 23 日，美股收低。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '10 月 23 日，美股收低。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '10 月 23 日，美股收低。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '10 月 23 日，美股收低。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '依美聯社報導，標普 500 指數下跌 0.5%，': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '依美聯社報導，標普 500 指數下跌 0.5%，': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '同一天，布蘭特原油上漲 3.1%，站上每桶 11': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '同一天，布蘭特原油上漲 3.1%，站上每桶 11': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '同一天，布蘭特原油上漲 3.1%，站上每桶 11': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '殖利率聽起來很專業，其實可以想成：把錢借給美國政': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '殖利率聽起來很專業，其實可以想成：把錢借給美國政': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '殖利率聽起來很專業，其實可以想成：把錢借給美國政': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '殖利率高，代表借錢的成本整體偏貴，房貸、企業貸款': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '殖利率高，代表借錢的成本整體偏貴，房貸、企業貸款': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '存款和債券的報酬變高，股票也得拿出更好的成績，才': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '存款和債券的報酬變高，股票也得拿出更好的成績，才': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '存款和債券的報酬變高，股票也得拿出更好的成績，才': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '接下來市場在等聯準會。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '依 10 月中旬的報導，決議預定在 10 月 2': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這些是報導裡的說法，不是預測。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這些是報導裡的說法，不是預測。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '這些是報導裡的說法，不是預測。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '本段只做知識整理，不是投資建議，也不針對任何標的': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+retry 9: zh '數字是 10 月 23 日的收盤，之後可能已經改': No audio was received. Please verify that your parameters are correct.
+FAILED 2026-10-27-knowledge TTS failed for '數字是 10 月 23 日的收盤，之後可能已經改變。': No audio was received. Please verify that your parameters are correct.
 building 2026-10-28-english
-retry 1: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '在行銷領域，許多大品牌現在花在廣告上的錢，占營收': No audio was received. Please verify that your parameters are correct.
-retry 1: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '另外，一項關於手機使用的小型研究顯示，自制力可能': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-28-english TTS failed for '意思是，釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '意思是，主席的一句話，就可能釋出政策轉向的訊號。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '意思是，縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，銷售放緩時，有些品牌會先縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，銷售放緩時，有些品牌會先縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，銷售放緩時，有些品牌會先縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，銷售放緩時，有些品牌會先縮減廣告支出。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，占營收的比重。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，爭奪注意力。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，爭奪注意力。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，爭奪注意力。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，你手機裡的每個 App，都在爭奪你的注意': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，A 看起來像 B，其實是 C。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，A 看起來像 B，其實是 C。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，比例下降看起來像是預算被砍，其實是營收成': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，比例下降看起來像是預算被砍，其實是營收成': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，比例下降看起來像是預算被砍，其實是營收成': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，比例下降看起來像是預算被砍，其實是營收成': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，比例下降看起來像是預算被砍，其實是營收成': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '意思是，安靜的班級看起來像專注的班級，其實是疲憊': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '意思是，安靜的班級看起來像專注的班級，其實是疲憊': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '意思是，安靜的班級看起來像專注的班級，其實是疲憊': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '意思是，安靜的班級看起來像專注的班級，其實是疲憊': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '意思是，安靜的班級看起來像專注的班級，其實是疲憊': No audio was received. Please verify that your parameters are correct.
 building 2026-10-28-knowledge
-retry 1: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 2: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '芝加哥商品交易所的 FedWatch 工具顯示，': No audio was received. Please verify that your parameters are correct.
 retry 1: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
 retry 2: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 3: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 4: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 5: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 6: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 7: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 8: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-retry 9: zh '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-FAILED 2026-10-28-knowledge TTS failed for '這些機率背後的邏輯很生活化。': No audio was received. Please verify that your parameters are correct.
-episodes: 12 dropped: 0
-episodes built: 0 failed: ['2026-10-27-english', '2026-10-27-knowledge', '2026-10-28-english', '2026-10-28-knowledge']
+retry 1: zh '扣掉食物與能源的核心 CPI 年增 2.6%，也': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '扣掉食物與能源的核心 CPI 年增 2.6%，也': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '標題數字被油價推著跑，核心數字也悄悄升溫，市場因': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '標題數字被油價推著跑，核心數字也悄悄升溫，市場因': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '標題數字被油價推著跑，核心數字也悄悄升溫，市場因': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '標題數字被油價推著跑，核心數字也悄悄升溫，市場因': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '標題數字被油價推著跑，核心數字也悄悄升溫，市場因': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '標題數字被油價推著跑，核心數字也悄悄升溫，市場因': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這些機率是期貨市場的定價，不是預測。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '資料寫成時決議還沒公布，請以聯準會官方公告為準。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '市場機率也一樣，它是大家用真金白銀押出來的共識，': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '市場機率也一樣，它是大家用真金白銀押出來的共識，': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '決議公布的那一刻，如果結果跟共識不同，價格就得重': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '決議公布的那一刻，如果結果跟共識不同，價格就得重': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '決議公布的那一刻，如果結果跟共識不同，價格就得重': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '跨領域連結\u3000賽前預期與臨場應變': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '跨領域連結\u3000賽前預期與臨場應變': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '跨領域連結\u3000賽前預期與臨場應變': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '市場的「定價」也是這種心理：多數消息在公布前已被': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '放到教學上，就是除了 A 計畫，也問自己：如果學': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '放到教學上，就是除了 A 計畫，也問自己：如果學': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '放到教學上，就是除了 A 計畫，也問自己：如果學': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '放到教學上，就是除了 A 計畫，也問自己：如果學': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '這只是借來的比喻。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '這只是借來的比喻。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 2: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 3: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 4: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 5: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 6: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 7: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 8: zh '大品牌的廣告花費，占營收的比例變小了。': No audio was received. Please verify that your parameters are correct.
+retry 1: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
+retry 2: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
+retry 3: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
+retry 4: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
+retry 5: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
+retry 6: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
+retry 7: zh 'WARC 分析 25 家全球大型廣告主，從 20': No audio was received. Please verify that your parameters are correct.
