@@ -1,0 +1,410 @@
+{
+ "title": "2026-10-30 英文軌：詞塊與跟讀",
+ "description": "間隔複習、短文、5 個詞塊（leave the door open to、pay off weeks later 等）、1 個句型、輸出練習與本週口說挑戰。英文為美式發音。",
+ "pub": "2026-10-30T07:01:00+08:00",
+ "queue": [
+  [
+   "zh",
+   "這裡是今天的英文練習。開車請專心，你只需要用耳朵聽，再開口跟著念。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第一段，間隔複習。這五個是你之前學過的詞塊。我先說中文，停四秒，請你說出英文，然後我再念答案。"
+  ],
+  [
+   "zh",
+   "急遽下滑。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "drop off sharply"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "維持利率不變。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "hold rates steady"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "看穿標題背後。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "look past the headline"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "權衡風險。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "weigh the risks"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "使工作記憶超載。"
+  ],
+  [
+   "pause",
+   4000
+  ],
+  [
+   "en-slow",
+   "overload working memory"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "第二段，今天的短文。先聽一次，再聽中文意思，最後慢速再聽一次。"
+  ],
+  [
+   "en",
+   "This week, the Fed held rates steady, but it left the door open to another hike. Officials chose to wait for more data before acting. In marketing, one writer argued that smart teams look beyond a single channel, because good brand work can pay off weeks later. And in sports science, a small study found that most children met the recommended activity level, but the hours after school made a big difference. A pause is not an ending."
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "中文意思。這個星期，聯準會維持利率不變，但為再次升息保留了餘地。官員選擇先等更多資料再行動。在行銷領域，有作者主張聰明的團隊不會只看單一通路，因為好的品牌經營可能幾週後才見效。在運動科學領域，一項小型研究發現，大多數孩子達到了建議的活動量，但放學後的那幾個小時，差別很大。暫停，不是結束。"
+  ],
+  [
+   "pause",
+   1200
+  ],
+  [
+   "zh",
+   "再聽一次，慢速。"
+  ],
+  [
+   "en-slow",
+   "This week, the Fed held rates steady, but it left the door open to another hike. Officials chose to wait for more data before acting. In marketing, one writer argued that smart teams look beyond a single channel, because good brand work can pay off weeks later. And in sports science, a small study found that most children met the recommended activity level, but the hours after school made a big difference. A pause is not an ending."
+  ],
+  [
+   "pause",
+   2000
+  ],
+  [
+   "zh",
+   "第三段，今天的五個詞塊。每一個，我會念詞塊，說中文，念例句，說例句的意思，再慢速念一次，然後停三秒，請你跟著念。"
+  ],
+  [
+   "zh",
+   "第一個詞塊。"
+  ],
+  [
+   "en",
+   "leave the door open to"
+  ],
+  [
+   "zh",
+   "意思是，為……保留餘地。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "The Fed held rates steady but left the door open to another hike."
+  ],
+  [
+   "zh",
+   "意思是，聯準會維持利率不變，但為再次升息保留了餘地。"
+  ],
+  [
+   "en-slow",
+   "The Fed held rates steady but left the door open to another hike."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第二個詞塊。"
+  ],
+  [
+   "en",
+   "wait for more data before acting"
+  ],
+  [
+   "zh",
+   "意思是，先等更多資料再行動。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Officials chose to wait for more data before acting."
+  ],
+  [
+   "zh",
+   "意思是，官員選擇先等更多資料再行動。"
+  ],
+  [
+   "en-slow",
+   "Officials chose to wait for more data before acting."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第三個詞塊。"
+  ],
+  [
+   "en",
+   "look beyond a single channel"
+  ],
+  [
+   "zh",
+   "意思是，不只看單一通路。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Smart marketers look beyond a single channel when they measure results."
+  ],
+  [
+   "zh",
+   "意思是，聰明的行銷人在衡量成效時，不會只看單一通路。"
+  ],
+  [
+   "en-slow",
+   "Smart marketers look beyond a single channel when they measure results."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四個詞塊。"
+  ],
+  [
+   "en",
+   "pay off weeks later"
+  ],
+  [
+   "zh",
+   "意思是，幾週後才見效。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "A good event can pay off weeks later, not on the day."
+  ],
+  [
+   "zh",
+   "意思是，一場好的活動，可能幾週後才見效，而不是當天。"
+  ],
+  [
+   "en-slow",
+   "A good event can pay off weeks later, not on the day."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五個詞塊。"
+  ],
+  [
+   "en",
+   "meet the recommended activity level"
+  ],
+  [
+   "zh",
+   "意思是，達到建議活動量。"
+  ],
+  [
+   "pause",
+   600
+  ],
+  [
+   "en",
+   "Most of the children met the recommended activity level."
+  ],
+  [
+   "zh",
+   "意思是，大多數孩子達到了建議的活動量。"
+  ],
+  [
+   "en-slow",
+   "Most of the children met the recommended activity level."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第四段，今天的句型。"
+  ],
+  [
+   "en",
+   "A matters, but it works best alongside B"
+  ],
+  [
+   "zh",
+   "意思是，A 很重要，但搭配 B 效果最好。"
+  ],
+  [
+   "en",
+   "Performance ads matter, but they work best alongside brand building."
+  ],
+  [
+   "zh",
+   "意思是，效果廣告很重要，但搭配品牌經營效果最好。"
+  ],
+  [
+   "en-slow",
+   "Performance ads matter, but they work best alongside brand building."
+  ],
+  [
+   "pause",
+   3500
+  ],
+  [
+   "zh",
+   "第五段，輪到你。請用這個句型，在心裡說一句關於你上一堂課的英文。停八秒。"
+  ],
+  [
+   "pause",
+   8000
+  ],
+  [
+   "zh",
+   "我的示範是這樣。"
+  ],
+  [
+   "en",
+   "Practice matters, but it works best alongside rest."
+  ],
+  [
+   "zh",
+   "意思是，練習很重要，但搭配休息效果最好。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "第六段，今天是星期五，來一個本週口說挑戰。請用這三個詞塊，自己錄三十秒的英文自述，主題是：這個星期你教的一堂課，或你嘗試的一件新事情。三個詞塊是："
+  ],
+  [
+   "en-slow",
+   "rule out other explanations"
+  ],
+  [
+   "pause",
+   800
+  ],
+  [
+   "en-slow",
+   "leave the door open to"
+  ],
+  [
+   "pause",
+   800
+  ],
+  [
+   "en-slow",
+   "pay off weeks later"
+  ],
+  [
+   "pause",
+   800
+  ],
+  [
+   "zh",
+   "停車以後再錄音就好。我先給你一個示範。"
+  ],
+  [
+   "en",
+   "This week I tried a quiet warm-up with my students. The class felt calmer, but I need to rule out other explanations, like the weather. I will leave the door open to changing it. Good teaching often pays off weeks later, so I will keep watching."
+  ],
+  [
+   "zh",
+   "意思是，這個星期，我讓學生試了一個安靜的暖身。班上感覺比較平靜，但我需要排除其他解釋，例如天氣。我會保留調整的餘地。好的教學常常幾週後才見效，所以我會繼續觀察。"
+  ],
+  [
+   "pause",
+   1000
+  ],
+  [
+   "zh",
+   "今天的五個詞塊，會在明天、三天後、七天後，再出現一次。週日記得做本週測驗。"
+  ]
+ ],
+ "rev": 1,
+ "voices": {
+  "zh": "zh-TW-YunJheNeural",
+  "en": "en-US-ChristopherNeural"
+ },
+ "pitch": {
+  "zh": "-13Hz",
+  "en": "-5Hz"
+ },
+ "rate": {
+  "zh": "+5%",
+  "en": "+3%",
+  "en-slow": "-22%"
+ },
+ "fx": "warm"
+}
